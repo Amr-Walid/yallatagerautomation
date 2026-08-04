@@ -1,0 +1,16 @@
+{
+  "name": "yalla-tager-automation",
+  "version": "1.0.0",
+  "description": "YallaTager Playwright Excel Automation Script",
+  "main": "yalla_tager_automation.js",
+  "scripts": {
+    "start": "node yalla_tager_automation.js"
+  },
+  "keywords": ["playwright", "excel", "yallatager", "automation"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.51.0",
+    "xlsx": "^0.18.5"
+  }
+}
