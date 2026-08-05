@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>يلا تاجر — تسجيل المنتجات</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="logo">ي</span>
+    <div>
+      <h1>تسجيل منتجات يلا تاجر</h1>
+      <p>ارفع شيت إكسل واحد — ونسجّل المنتجات في حسابك</p>
+    </div>
+  </div>
+  <div id="whoami" class="whoami hidden"></div>
+</header>
+
+<!-- شريط الخطوات -->
+<nav class="steps" id="steps">
+  <div class="step active" data-step="1"><b>١</b><span>الدخول</span></div>
+  <div class="step" data-step="2"><b>٢</b><span>الفئة والتيمبليت</span></div>
+  <div class="step" data-step="3"><b>٣</b><span>الرفع والتسجيل</span></div>
+  <div class="step" data-step="4"><b>٤</b><span>النتيجة</span></div>
+</nav>
+
+<main>
+
+<!-- ============ الخطوة ١: تسجيل الدخول ============ -->
+<section class="card" id="panel-1">
+  <h2>بيانات حساب التاجر</h2>
+  <p class="muted">نستخدمها للاتصال بحسابك على يلا تاجر فقط، ولا تُحفظ في أي مكان دائم.</p>
+  <form id="login-form" autocomplete="on">
+    <label>
+      البريد الإلكتروني
+      <input type="email" id="email" name="email" required placeholder="you@example.com" autocomplete="username">
+    </label>
+    <label>
+      كلمة المرور
+      <input type="password" id="password" name="password" required placeholder="••••••••" autocomplete="current-password">
+    </label>
+    <button type="submit" class="btn primary" id="login-btn">تسجيل الدخول</button>
+  </form>
+  <div id="login-msg" class="msg"></div>
+</section>
+
+<!-- ============ الخطوة ٢: الفئة + التيمبليت ============ -->
+<section class="card hidden" id="panel-2">
+  <h2>اختر الفئة</h2>
+  <p class="muted">سنبحث عن منتجاتك داخل هذه الفئة، والتيمبليت سيكون مخصّصاً لها.</p>
+
+  <label>
+    الفئة
+    <select id="category" required></select>
+  </label>
+
+  <div class="cols-preview">
+    <h3>أعمدة التيمبليت</h3>
+    <ul id="cols-list"></ul>
+  </div>
+
+  <div class="row">
+    <button class="btn primary" id="dl-btn">⬇ تنزيل تيمبليت الإكسل</button>
+    <button class="btn ghost" id="to-upload-btn">التالي: رفع الملف ←</button>
+  </div>
+  <div id="tpl-msg" class="msg"></div>
+</section>
+
+<!-- ============ الخطوة ٣: الرفع ============ -->
+<section class="card hidden" id="panel-3">
+  <h2>ارفع الملف المملوء</h2>
+  <p class="muted">
+    الفئة المختارة: <b id="chosen-cat"></b>
+  </p>
+
+  <div class="drop" id="drop">
+    <input type="file" id="file" accept=".xlsx,.xls" hidden>
+    <div class="drop-inner">
+      <span class="drop-icon">⬆</span>
+      <p><b>اسحب الملف هنا</b> أو اضغط للاختيار</p>
+      <small id="file-name">لم يتم اختيار ملف</small>
+    </div>
+  </div>
+
+  <label class="check">
+    <input type="checkbox" id="dry-run">
+    <span>وضع المعاينة — تحقّق فقط دون تسجيل فعلي <small>(موصى به أول مرة)</small></span>
+  </label>
+
+  <div class="row">
+    <button class="btn primary" id="run-btn" disabled>▶ ابدأ التسجيل</button>
+    <button class="btn ghost" id="back-2-btn">→ رجوع</button>
+  </div>
+  <div id="run-msg" class="msg"></div>
+
+  <div class="note">
+    <b>حماية سيرفر يلا تاجر</b>
+    <p>
+      العملية مصمّمة لتكون لطيفة على السيرفر: طلب واحد في اللحظة، فاصل زمني بين
+      الطلبات، ذاكرة مؤقتة تمنع تكرار نفس الطلب، وتوقّف تلقائي عند أي ضغط.
+      لذلك قد تأخذ العملية وقتاً أطول — وهذا مقصود.
+    </p>
+  </div>
+</section>
+
+<!-- ============ الخطوة ٤: التقدّم والنتيجة ============ -->
+<section class="card hidden" id="panel-4">
+  <div class="prog-head">
+    <h2 id="prog-title">جارٍ التنفيذ…</h2>
+    <button class="btn danger small" id="cancel-btn">إلغاء</button>
+  </div>
+
+  <div class="bar"><div class="bar-fill" id="bar-fill"></div></div>
+  <p class="phase" id="phase-text">التحضير…</p>
+
+  <!-- بطاقات الملخص -->
+  <div class="stats hidden" id="stats">
+    <div class="stat ok"><b id="s-saved">0</b><span>تم التسجيل</span></div>
+    <div class="stat warn"><b id="s-skipped">0</b><span>مسجّل سابقاً</span></div>
+    <div class="stat info"><b id="s-notfound">0</b><span>غير موجود</span></div>
+    <div class="stat bad"><b id="s-failed">0</b><span>فشل</span></div>
+  </div>
+
+  <div class="usage hidden" id="usage"></div>
+
+  <!-- فلاتر + جدول النتائج -->
+  <div class="results-head hidden" id="results-head">
+    <h3>النتائج التفصيلية</h3>
+    <div class="filters" id="filters">
+      <button class="chip active" data-f="all">الكل</button>
+      <button class="chip" data-f="saved">تم التسجيل</button>
+      <button class="chip" data-f="skipped">مسجّل سابقاً</button>
+      <button class="chip" data-f="not_found">غير موجود</button>
+      <button class="chip" data-f="failed">فشل</button>
+    </div>
+  </div>
+
+  <div class="table-wrap hidden" id="table-wrap">
+    <table id="results">
+      <thead>
+        <tr>
+          <th>صف</th><th>الكود</th><th>الاسم</th><th>الحالة</th>
+          <th>السبب</th><th>طُوبق بـ</th><th>السعر</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <!-- سجل الأحداث -->
+  <details class="logbox" id="logbox">
+    <summary>سجل التنفيذ المباشر</summary>
+    <pre id="log"></pre>
+  </details>
+
+  <div class="row hidden" id="final-actions">
+    <button class="btn primary" id="report-btn">⬇ تنزيل تقرير الإكسل</button>
+    <button class="btn ghost" id="again-btn">↻ تشغيل جديد</button>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <p>مبني للتعامل بلطف مع سيرفر يلا تاجر — طلبات مُنظَّمة وذاكرة مؤقتة وتوقّف تلقائي عند الضغط.</p>
+</footer>
+
+<script src="/app.js"></script>
+</body>
+</html>
