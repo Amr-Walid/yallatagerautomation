@@ -1,16 +1,23 @@
 {
   "name": "yalla-tager-automation",
-  "version": "1.0.0",
-  "description": "YallaTager Playwright Excel Automation Script",
-  "main": "yalla_tager_automation.js",
+  "version": "3.0.0",
+  "description": "ويب أبلكيشن + أتمتة لتسجيل منتجات البائع على yallatager.com من ملف إكسل، مع طبقة حماية لسيرفر الموقع",
+  "main": "server.js",
   "scripts": {
-    "start": "node yalla_tager_automation.js"
+    "start": "node server.js",
+    "serve": "node server.js",
+    "cli": "node yalla_tager_automation.js",
+    "dry-run": "node yalla_tager_automation.js --dry-run",
+    "diagnose": "node tools/diagnose.js",
+    "check-codes": "node tools/test_all_codes.js"
   },
-  "keywords": ["playwright", "excel", "yallatager", "automation"],
+  "keywords": ["yallatager", "excel", "automation", "rest-api", "marketplace", "web-app"],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
-    "playwright": "^1.51.0",
     "xlsx": "^0.18.5"
   }
 }

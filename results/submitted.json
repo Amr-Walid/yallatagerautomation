@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "submissions": {
+    "53643": {
+      "sku": "6968892300414",
+      "model": "SN-368 -PLUG",
+      "barcode": "6968892300414",
+      "requestId": "159953",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-04T22:56:32.909Z"
+    },
+    "53661": {
+      "sku": "6968892300490",
+      "model": "SN-27",
+      "barcode": "6968892300490",
+      "requestId": "159946",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-04T22:56:12.339Z"
+    },
+    "53669": {
+      "sku": "6968892300384",
+      "model": "SN-336-CHARGER",
+      "barcode": "6968892300384",
+      "requestId": "159952",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-04T22:56:30.587Z"
+    },
+    "53676": {
+      "sku": "6968892300155",
+      "model": "SN-88",
+      "requestId": "159941",
+      "price": "1000",
+      "groupPrice": "1000",
+      "note": "أُنشئ أثناء تجارب استكشاف الـ API",
+      "submittedAt": "2026-08-04T22:38:32.871Z"
+    },
+    "55614": {
+      "sku": "6968892300339",
+      "model": "SN-397",
+      "barcode": "6968892300339",
+      "requestId": "159944",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-04T22:56:06.070Z"
+    },
+    "55615": {
+      "sku": "6968892300391",
+      "model": "SN-398",
+      "barcode": "6968892300391",
+      "requestId": "159945",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-04T22:56:08.347Z"
+    },
+    "55616": {
+      "sku": "1804834123459",
+      "model": "SN-31",
+      "barcode": "1804834123459",
+      "requestId": "159947",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-04T22:56:14.690Z"
+    },
+    "55620": {
+      "sku": "",
+      "model": "SN-33",
+      "requestId": "159940",
+      "price": "1000",
+      "groupPrice": "1000",
+      "note": "أُنشئ أثناء تجارب استكشاف الـ API",
+      "submittedAt": "2026-08-04T22:38:32.889Z"
+    },
+    "55622": {
+      "sku": "6920744706850",
+      "model": "SN-25",
+      "barcode": "6920744706850",
+      "requestId": "159948",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-04T22:56:18.984Z"
+    },
+    "55625": {
+      "sku": "696889230067",
+      "model": "SN-29",
+      "barcode": "696889230067",
+      "requestId": "159949",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-04T22:56:21.236Z"
+    },
+    "55626": {
+      "sku": "6968892300629",
+      "model": "SN-30",
+      "barcode": "6968892300629",
+      "requestId": "159950",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-04T22:56:23.826Z"
+    },
+    "55632": {
+      "sku": "6968892300582",
+      "model": "SN-539",
+      "barcode": "6968892300582",
+      "requestId": "159943",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-04T22:39:05.752Z"
+    },
+    "55634": {
+      "sku": "6968892300698",
+      "model": "SN-360",
+      "barcode": "6968892300698",
+      "requestId": "159951",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-04T22:56:28.289Z"
+    },
+    "55636": {
+      "sku": "6968892300506",
+      "model": "SN-935",
+      "requestId": "159939",
+      "price": "1000",
+      "groupPrice": "1000",
+      "note": "أُنشئ أثناء تجارب استكشاف الـ API",
+      "submittedAt": "2026-08-04T22:38:32.889Z"
+    }
+  }
+}

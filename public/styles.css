@@ -1,0 +1,253 @@
+/* ================= يلا تاجر — واجهة عربية RTL ================= */
+:root {
+  --bg: #0f1420;
+  --bg2: #151c2c;
+  --card: #1a2234;
+  --card2: #202a40;
+  --line: #2a3550;
+  --txt: #e8edf7;
+  --muted: #93a1bf;
+  --brand: #ffb020;
+  --brand2: #ff8c00;
+  --ok: #34d399;
+  --warn: #fbbf24;
+  --bad: #f87171;
+  --info: #60a5fa;
+  --r: 14px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: radial-gradient(1200px 600px at 80% -10%, #1d2740 0%, var(--bg) 55%) no-repeat, var(--bg);
+  color: var(--txt);
+  font-family: "Segoe UI", Tahoma, "Noto Kufi Arabic", system-ui, sans-serif;
+  line-height: 1.7;
+  min-height: 100vh;
+}
+
+/* ---------------- الشريط العلوي ---------------- */
+.topbar {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 16px; flex-wrap: wrap;
+  padding: 18px 22px;
+  border-bottom: 1px solid var(--line);
+  background: rgba(21, 28, 44, 0.7);
+  backdrop-filter: blur(8px);
+  position: sticky; top: 0; z-index: 20;
+}
+.brand { display: flex; align-items: center; gap: 14px; }
+.logo {
+  width: 46px; height: 46px; flex: none;
+  display: grid; place-items: center;
+  border-radius: 12px;
+  background: linear-gradient(135deg, var(--brand), var(--brand2));
+  color: #201400; font-weight: 800; font-size: 24px;
+}
+.topbar h1 { margin: 0; font-size: 19px; }
+.topbar p { margin: 0; font-size: 13px; color: var(--muted); }
+.whoami {
+  font-size: 13px; color: var(--muted);
+  background: var(--card); border: 1px solid var(--line);
+  padding: 7px 13px; border-radius: 999px;
+}
+.whoami b { color: var(--txt); }
+
+/* ---------------- شريط الخطوات ---------------- */
+.steps {
+  display: flex; gap: 8px; flex-wrap: wrap;
+  max-width: 1050px; margin: 22px auto 0; padding: 0 18px;
+}
+.step {
+  flex: 1 1 150px; display: flex; align-items: center; gap: 10px;
+  padding: 11px 14px; border-radius: 999px;
+  background: var(--card); border: 1px solid var(--line);
+  color: var(--muted); font-size: 14px; transition: .25s;
+}
+.step b {
+  width: 26px; height: 26px; flex: none;
+  display: grid; place-items: center; border-radius: 50%;
+  background: var(--card2); font-size: 13px;
+}
+.step.active { border-color: var(--brand); color: var(--txt); }
+.step.active b { background: var(--brand); color: #201400; }
+.step.done { border-color: var(--ok); color: var(--txt); }
+.step.done b { background: var(--ok); color: #05261a; }
+
+/* ---------------- البطاقات ---------------- */
+main { max-width: 1050px; margin: 0 auto; padding: 22px 18px 60px; }
+.card {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: var(--r); padding: 24px; margin-bottom: 20px;
+}
+.card h2 { margin: 0 0 6px; font-size: 20px; }
+.card h3 { margin: 18px 0 8px; font-size: 15px; color: var(--muted); }
+.muted { color: var(--muted); font-size: 14px; margin: 0 0 18px; }
+.hidden { display: none !important; }
+
+/* ---------------- الحقول ---------------- */
+label { display: block; margin-bottom: 16px; font-size: 14px; font-weight: 600; }
+input[type=email], input[type=password], input[type=text], select {
+  width: 100%; margin-top: 7px; padding: 12px 14px;
+  background: var(--bg2); color: var(--txt);
+  border: 1px solid var(--line); border-radius: 10px;
+  font-size: 15px; font-family: inherit;
+}
+input:focus, select:focus { outline: none; border-color: var(--brand); }
+select { cursor: pointer; }
+
+.check { display: flex; align-items: flex-start; gap: 10px; font-weight: 500; }
+.check input { width: 18px; height: 18px; margin-top: 4px; accent-color: var(--brand); flex: none; }
+.check small { color: var(--muted); }
+
+/* ---------------- الأزرار ---------------- */
+.btn {
+  padding: 12px 22px; border-radius: 10px; border: 1px solid transparent;
+  font-size: 15px; font-weight: 700; font-family: inherit;
+  cursor: pointer; transition: .2s;
+}
+.btn.primary { background: linear-gradient(135deg, var(--brand), var(--brand2)); color: #201400; }
+.btn.primary:hover:not(:disabled) { filter: brightness(1.1); }
+.btn.ghost { background: transparent; border-color: var(--line); color: var(--txt); }
+.btn.ghost:hover { border-color: var(--brand); }
+.btn.danger { background: transparent; border-color: var(--bad); color: var(--bad); }
+.btn.danger:hover { background: rgba(248, 113, 113, .12); }
+.btn.small { padding: 7px 15px; font-size: 13px; }
+.btn:disabled { opacity: .45; cursor: not-allowed; }
+.row { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 8px; }
+
+/* ---------------- الرسائل ---------------- */
+.msg { margin-top: 14px; font-size: 14px; padding: 0; }
+.msg:not(:empty) {
+  padding: 12px 15px; border-radius: 10px;
+  border-right: 3px solid var(--line); background: var(--bg2);
+}
+.msg.err { border-right-color: var(--bad); color: #ffc9c9; }
+.msg.ok { border-right-color: var(--ok); color: #b6f3dc; }
+.msg.warn { border-right-color: var(--warn); color: #ffe6b0; }
+
+/* ---------------- قائمة الأعمدة ---------------- */
+.cols-preview { background: var(--bg2); border: 1px solid var(--line); border-radius: 10px; padding: 14px 18px; margin-bottom: 18px; }
+.cols-preview h3 { margin-top: 0; }
+.cols-preview ul { margin: 0; padding: 0; list-style: none; font-size: 13.5px; }
+.cols-preview li { padding: 5px 0; border-bottom: 1px dashed var(--line); }
+.cols-preview li:last-child { border: none; }
+.cols-preview .req { color: var(--brand); font-weight: 700; }
+.cols-preview .opt { color: var(--muted); }
+.cols-preview .hint { color: var(--muted); font-size: 12.5px; }
+
+/* ---------------- منطقة الرفع ---------------- */
+.drop {
+  border: 2px dashed var(--line); border-radius: var(--r);
+  padding: 34px 20px; text-align: center; cursor: pointer;
+  background: var(--bg2); transition: .2s; margin-bottom: 18px;
+}
+.drop:hover, .drop.over { border-color: var(--brand); background: #1b2436; }
+.drop.has { border-color: var(--ok); border-style: solid; }
+.drop-icon { font-size: 34px; display: block; color: var(--brand); }
+.drop p { margin: 8px 0 4px; }
+.drop small { color: var(--muted); }
+
+/* ---------------- ملاحظة ---------------- */
+.note {
+  margin-top: 22px; padding: 14px 18px; border-radius: 10px;
+  background: rgba(96, 165, 250, .08); border-right: 3px solid var(--info);
+}
+.note b { color: var(--info); font-size: 14px; }
+.note p { margin: 5px 0 0; font-size: 13.5px; color: var(--muted); }
+
+/* ---------------- التقدّم ---------------- */
+.prog-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.prog-head h2 { margin: 0; }
+.bar { height: 10px; background: var(--bg2); border-radius: 999px; overflow: hidden; margin: 16px 0 10px; }
+.bar-fill {
+  height: 100%; width: 0;
+  background: linear-gradient(90deg, var(--brand2), var(--brand));
+  border-radius: 999px; transition: width .35s ease;
+}
+.phase { color: var(--muted); font-size: 14px; margin: 0 0 6px; }
+
+/* ---------------- بطاقات الإحصاء ---------------- */
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 12px; margin: 20px 0; }
+.stat {
+  background: var(--bg2); border: 1px solid var(--line);
+  border-radius: 12px; padding: 16px; text-align: center;
+}
+.stat b { display: block; font-size: 30px; line-height: 1.2; }
+.stat span { font-size: 13px; color: var(--muted); }
+.stat.ok b { color: var(--ok); } .stat.ok { border-color: rgba(52,211,153,.35); }
+.stat.warn b { color: var(--warn); } .stat.warn { border-color: rgba(251,191,36,.35); }
+.stat.info b { color: var(--info); } .stat.info { border-color: rgba(96,165,250,.35); }
+.stat.bad b { color: var(--bad); } .stat.bad { border-color: rgba(248,113,113,.35); }
+
+.usage {
+  font-size: 13px; color: var(--muted); background: var(--bg2);
+  border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; margin-bottom: 18px;
+}
+.usage b { color: var(--txt); }
+
+/* ---------------- الفلاتر ---------------- */
+.results-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-top: 10px; }
+.results-head h3 { margin: 0; color: var(--txt); font-size: 16px; }
+.filters { display: flex; gap: 7px; flex-wrap: wrap; }
+.chip {
+  padding: 6px 14px; border-radius: 999px; cursor: pointer;
+  background: var(--bg2); border: 1px solid var(--line);
+  color: var(--muted); font-size: 13px; font-family: inherit;
+}
+.chip:hover { border-color: var(--brand); }
+.chip.active { background: var(--brand); border-color: var(--brand); color: #201400; font-weight: 700; }
+
+/* ---------------- الجدول ---------------- */
+.table-wrap {
+  margin-top: 14px; overflow-x: auto;
+  border: 1px solid var(--line); border-radius: 12px;
+}
+table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+thead th {
+  background: var(--card2); padding: 11px 13px; text-align: right;
+  font-weight: 700; white-space: nowrap; position: sticky; top: 0;
+  border-bottom: 1px solid var(--line);
+}
+tbody td { padding: 10px 13px; border-bottom: 1px solid var(--line); vertical-align: top; }
+tbody tr:last-child td { border-bottom: none; }
+tbody tr:hover { background: rgba(255,255,255,.02); }
+td.name, td.reason { max-width: 320px; }
+
+.tag {
+  display: inline-block; padding: 3px 10px; border-radius: 999px;
+  font-size: 12px; font-weight: 700; white-space: nowrap;
+}
+.tag.saved { background: rgba(52,211,153,.16); color: var(--ok); }
+.tag.skipped { background: rgba(251,191,36,.16); color: var(--warn); }
+.tag.notfound { background: rgba(96,165,250,.16); color: var(--info); }
+.tag.failed { background: rgba(248,113,113,.16); color: var(--bad); }
+.tag.pending { background: rgba(147,161,191,.16); color: var(--muted); }
+
+/* ---------------- السجل ---------------- */
+.logbox {
+  margin-top: 20px; background: var(--bg2);
+  border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px;
+}
+.logbox summary { cursor: pointer; font-size: 14px; font-weight: 600; color: var(--muted); }
+.logbox pre {
+  margin: 12px 0 0; max-height: 260px; overflow: auto;
+  font-size: 12.5px; line-height: 1.75; color: var(--muted);
+  white-space: pre-wrap; word-break: break-word;
+  font-family: ui-monospace, "Cascadia Code", Consolas, monospace;
+  direction: rtl; text-align: right;
+}
+
+footer {
+  text-align: center; padding: 26px 18px 40px;
+  color: var(--muted); font-size: 13px;
+  border-top: 1px solid var(--line);
+}
+footer p { margin: 0; }
+
+@media (max-width: 620px) {
+  .card { padding: 18px; }
+  .step span { display: none; }
+  .step { flex: 0 0 auto; }
+}
