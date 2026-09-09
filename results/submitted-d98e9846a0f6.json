@@ -1,0 +1,3227 @@
+{
+  "version": 1,
+  "submissions": {
+    "42089": {
+      "sku": "3389110346749",
+      "productId": "3389110346749",
+      "productName": "Thermal Overload Relay Schneider Electric, 0.4-0.63 A, Class 10A, LRD04 - Grey",
+      "requestId": "162906",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:44:45.604Z"
+    },
+    "42429": {
+      "sku": "3389110346800",
+      "productId": "3389110346800",
+      "productName": "Thermal Overload Relay Schneider TeSys LRD, 4-6 A, Class 10A, LRD10 - Dark Grey",
+      "requestId": "162907",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:44:52.064Z"
+    },
+    "46692": {
+      "sku": "3606480087004",
+      "productId": "3606480087004",
+      "productName": "Miniature Circuit Breaker Schneider Acti9 iK60N, 3P, 25A, C Curve, 6000A - A9K24325",
+      "requestId": "162740",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:31:25.447Z"
+    },
+    "46697": {
+      "sku": "3606480087011",
+      "productId": "3606480087011",
+      "productName": "Miniature Circuit Breaker Schneider Acti9 iK60N, 3P, 16A, C Curve, 6000A - A9K24316",
+      "requestId": "162739",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:31:20.862Z"
+    },
+    "46718": {
+      "sku": "3606480086984",
+      "productId": "3606480086984",
+      "productName": "Miniature Circuit Breaker Schneider Acti9 iK60N, 3P, 10A, C Curve, 6000A - A9K24310",
+      "requestId": "162738",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:31:16.182Z"
+    },
+    "46719": {
+      "sku": "3606489454784",
+      "productId": "3606489454784",
+      "productName": "Schneider Electric New Unica Pushbutton Switch 10A, 1-Module, Screwless, NU310618 - White",
+      "requestId": "162917",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:45:45.809Z"
+    },
+    "46728": {
+      "sku": "3606480379352",
+      "productId": "3606480379352",
+      "productName": "Miniature Circuit Breaker Schneider Acti9 C120N, 2P 80A, C Curve - A9N18361",
+      "requestId": "162743",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:31:39.067Z"
+    },
+    "46729": {
+      "sku": "3606480087127",
+      "productId": "3606480087127",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iK60N, 2P, 20A, C Curve - A9K24220",
+      "requestId": "162734",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:30:56.851Z"
+    },
+    "46732": {
+      "sku": "3606480094309",
+      "productId": "3606480094309",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 4P, 10A, C Curve - A9F77410",
+      "requestId": "162687",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:27:22.830Z"
+    },
+    "46735": {
+      "sku": "3606480094057",
+      "productId": "3606480094057",
+      "productName": "Miniature Circuit Breaker Schneider Electric, Acti9 iC60N 20A 1P C Curve - A9F77120",
+      "requestId": "162670",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:26:04.056Z"
+    },
+    "46737": {
+      "sku": "3606480094071",
+      "productId": "3606480094071",
+      "productName": "Miniature Circuit Breaker Schneider Electric, Acti9 iC60N 32A 1P C Curve - A9F77132",
+      "requestId": "162672",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:26:13.611Z"
+    },
+    "46740": {
+      "sku": "3606480087110",
+      "productId": "3606480087110",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iK60N, 2P, 16A, C Curve - A9K24216",
+      "requestId": "162733",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:30:52.274Z"
+    },
+    "46741": {
+      "sku": "3606480087073",
+      "productId": "3606480087073",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iK60N, 2P, 32A, C Curve - A9K24232",
+      "requestId": "162735",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:31:01.649Z"
+    },
+    "46742": {
+      "sku": "3606480086922",
+      "productId": "3606480086922",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iK60N, 2P, 40A, C Curve - A9K24240",
+      "requestId": "162736",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:31:06.117Z"
+    },
+    "46746": {
+      "sku": "3606480379376",
+      "productId": "3606480379376",
+      "productName": "Miniature Circuit Breaker Schneider Acti9 C120N, 2P 125A, C Curve - A9N18363",
+      "requestId": "162744",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:31:43.679Z"
+    },
+    "46748": {
+      "sku": "3606480084546",
+      "productId": "3606480084546",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60L, 1P, 63A, C Curve - A9F94163",
+      "requestId": "162724",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:30:11.207Z"
+    },
+    "46749": {
+      "sku": "3606480096006",
+      "productId": "3606480096006",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 3P, 6A, C Curve - A9F87306",
+      "requestId": "162707",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:28:52.207Z"
+    },
+    "46761": {
+      "sku": "3389110218459",
+      "productId": "3389110218459",
+      "productName": "Telemecanique Limit switch, Limit switches XC Standard, XCMD, thermoplastic plastic roller lever var.length, 1NC+1 NO, snap, 1M - XCMD2145L1",
+      "requestId": "162974",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:28:16.102Z"
+    },
+    "46775": {
+      "sku": "3606480096044",
+      "productId": "3606480096044",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 3P, 25A, C Curve - A9F87325",
+      "requestId": "162711",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:29:11.734Z"
+    },
+    "46778": {
+      "sku": "3606480084522",
+      "productId": "3606480084522",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60L, 1P, 40A, C Curve - A9F94140",
+      "requestId": "162723",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:30:06.846Z"
+    },
+    "46780": {
+      "sku": "3606480084461",
+      "productId": "3606480084461",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 IC60L, 1P, 16A, C Curve - A9F94116",
+      "requestId": "162719",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:29:47.368Z"
+    },
+    "46783": {
+      "sku": "3606480095900",
+      "productId": "3606480095900",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 1P, 63A, C Curve - A9F87163",
+      "requestId": "162698",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:28:12.002Z"
+    },
+    "46788": {
+      "sku": "3606480094033",
+      "productId": "3606480094033",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 10A 1P C Curve - A9F77110",
+      "requestId": "162669",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:25:59.446Z"
+    },
+    "46795": {
+      "sku": "3389110349191",
+      "productId": "3389110349191",
+      "productName": "IEC Contactor Tesys DECA (Non-Reversing) Schneider Electric, 12A, 7.5HP at 480VAC, Up to 100kA SCCR, 3P, 3NO - LC1D12E7",
+      "requestId": "162837",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:39:14.684Z"
+    },
+    "46799": {
+      "sku": "3606480094095",
+      "productId": "3606480094095",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 50A 1P C Curve - A9F77150",
+      "requestId": "162674",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:26:22.920Z"
+    },
+    "46800": {
+      "sku": "3606480095863",
+      "productId": "3606480095863",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 1P, 25A, C Curve - A9F87125",
+      "requestId": "162695",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:27:58.197Z"
+    },
+    "46801": {
+      "sku": "3606480095887",
+      "productId": "3606480095887",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 1P, 40A, C Curve - A9F87140",
+      "requestId": "162697",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:28:07.371Z"
+    },
+    "46805": {
+      "sku": "3606480084409",
+      "productId": "3606480084409",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 IC60L, 1P, 10A, C Curve - A9F94110",
+      "requestId": "162718",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:29:42.973Z"
+    },
+    "46864": {
+      "sku": "3606480094163",
+      "productId": "3606480094163",
+      "productName": "Miniature Circuit Breaker Schneider Acti9 IC60N, 2P 32A, C Curve - A9F77232",
+      "requestId": "162677",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:26:36.880Z"
+    },
+    "46865": {
+      "sku": "3606480094064",
+      "productId": "3606480094064",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 25A 1P C Curve - A9F77125",
+      "requestId": "162671",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:26:08.829Z"
+    },
+    "46867": {
+      "sku": "3606480094262",
+      "productId": "3606480094262",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 3P, 40A, C Curve, 6kA - A9F77340",
+      "requestId": "162685",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:27:13.647Z"
+    },
+    "46868": {
+      "sku": "3606480094286",
+      "productId": "3606480094286",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 3P, 63A, C Curve, 6kA - A9F77363",
+      "requestId": "162686",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:27:18.285Z"
+    },
+    "46877": {
+      "sku": "3606481929310",
+      "productId": "3606481929310",
+      "productName": "Residual Current   Circuit Breaker Schneider Electric Resi9, 4P, 25A, AC Type, 30mA, 4.5K -   R9R51425",
+      "requestId": "162926",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:46:22.114Z"
+    },
+    "46887": {
+      "sku": "3606480379338",
+      "productId": "3606480379338",
+      "productName": "Miniature Circuit Breaker Schneider Acti9 C120N, 1P, 125A, C Curve - A9N18359",
+      "requestId": "162742",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:31:34.396Z"
+    },
+    "46892": {
+      "sku": "3606480094194",
+      "productId": "3606480094194",
+      "productName": "Miniature Circuit Breaker Schneider Acti9 IC60N, 2P 63A, C Curve - A9F77263",
+      "requestId": "162679",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:26:46.257Z"
+    },
+    "46893": {
+      "sku": "3606480087189",
+      "productId": "3606480087189",
+      "productName": "Miniature Circuit Breaker Schneider Acti9 iK60N, 1P, 6A, C Curve, 6000A - A9K24106",
+      "requestId": "162731",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:30:43.075Z"
+    },
+    "46895": {
+      "sku": "3389110316636",
+      "productId": "3389110316636",
+      "productName": "Telemecanique Limit Switch, XC Standard,   XCKP, Metal End Plunger, 1NC + 1NO, Snap Action, Pg11 - XCKP2110G11",
+      "requestId": "162970",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:27:57.666Z"
+    },
+    "46898": {
+      "sku": "3389119000253",
+      "productId": "3389119000253",
+      "productName": "Telemecanique Limit Switch, XC Standard,   XCKN, Thermoplastic Roller Lever Ø50 mm, 1NC + 1NO, Snap, Pg11 - XCKN2139G11",
+      "requestId": "162966",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:27:34.247Z"
+    },
+    "46899": {
+      "sku": "3606481058478",
+      "productId": "3606480095849",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 1P, 16A, C Curve - A9F87116",
+      "requestId": "162693",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:27:49.502Z"
+    },
+    "46900": {
+      "sku": "3606480087042",
+      "productId": "3606480087042",
+      "productName": "Miniature Circuit Breaker Schneider Acti9 iK60N, 3P, 6A, C Curve, 6000A - A9K24306",
+      "requestId": "162737",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:31:10.597Z"
+    },
+    "46903": {
+      "sku": "3389110319019",
+      "productId": "3389110319019",
+      "productName": "Telemecanique Limit Switch, XC Standard,   XCKN, Plastic Roller Lever Ø50 mm Variable Length, 1NC + 1NO, Snap, Pg11 -   XCKN2149G11",
+      "requestId": "162968",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:27:42.601Z"
+    },
+    "46914": {
+      "sku": "3606480379406",
+      "productId": "3606480379406",
+      "productName": "Miniature Circuit Breaker, Schneider Acti9 C120N, 3P, 100 A, C Curve - A9N18367",
+      "requestId": "162745",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:31:48.013Z"
+    },
+    "46917": {
+      "sku": "3606481929167",
+      "productId": "3606481929167",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Resi9, 2P, 25A, AC type, 30mA, 4.5K - R9R51225",
+      "requestId": "162924",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:46:12.994Z"
+    },
+    "46922": {
+      "sku": "3606480088568",
+      "productId": "3606480088568",
+      "productName": "Contactor Schneider Electric iCT, 25A 1NO 230...240V 50Hz - A9C20731",
+      "requestId": "162650",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:24:30.687Z"
+    },
+    "46926": {
+      "sku": "3606482178113",
+      "productId": "3606482178113",
+      "productName": "Doorbell Switch Schneider Electric Miluz E, 10A, 250V, 2 Module, M3TB31_BP_2M - White",
+      "requestId": "162914",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:45:32.515Z"
+    },
+    "46927": {
+      "sku": "3606480095924",
+      "productId": "3606480095924",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 2P, 10 A, C Curve - A9F87210",
+      "requestId": "162700",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:28:20.824Z"
+    },
+    "46941": {
+      "sku": "3606480095948",
+      "productId": "3606480095948",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 2P, 20 A, C Curve - A9F87220",
+      "requestId": "162702",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:28:29.844Z"
+    },
+    "46942": {
+      "sku": "3606480096013",
+      "productId": "3606480096013",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 3P, 10A, C Curve - A9F87310",
+      "requestId": "162708",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:28:57.331Z"
+    },
+    "46943": {
+      "sku": "3606480096082",
+      "productId": "3606480096082",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 3P, 63A, C Curve - A9F87363",
+      "requestId": "162713",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:29:20.557Z"
+    },
+    "46960": {
+      "sku": "3389110349399",
+      "productId": "3389110349399",
+      "productName": "Contactor Schneider Electric TeSys D, 3P, 3NO, AC3 440V, 18A, 24V AC Coil - LC1D18B7",
+      "requestId": "162840",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:39:28.452Z"
+    },
+    "46964": {
+      "sku": "3389110349566",
+      "productId": "3389110349566",
+      "productName": "Contactor Schneider Electric TeSys D, 3P, 3NO, AC-3 440V, 18A, 380V AC Coil - LC1D18Q7",
+      "requestId": "162843",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:39:42.129Z"
+    },
+    "46967": {
+      "sku": "3389110352207",
+      "productId": "3389110352207",
+      "productName": "Contactor Schneider Electric TeSys D, 3P, 3NO, AC-3 440V, 38A, 110V AC 50/60Hz Coil - LC1D38F7",
+      "requestId": "162860",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:41:04.700Z"
+    },
+    "46970": {
+      "sku": "3389119408325",
+      "productId": "3389119408325",
+      "productName": "Contactor Schneider Electric Tesys D, 3P, 3NO, AC-3 440V, 40A, 24V AC 50/60Hz Coil - LC1D40AB7",
+      "requestId": "162862",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:41:14.408Z"
+    },
+    "46971": {
+      "sku": "3389119408936",
+      "productId": "3389119408936",
+      "productName": "Contactor Schneider Electric Tesys D, 3P, 3NO, AC-3 440V, 65A, 24V AC 50/60Hz Coil - LC1D65AB7",
+      "requestId": "162872",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:42:00.453Z"
+    },
+    "46973": {
+      "sku": "3389119409049",
+      "productId": "3389119409049",
+      "productName": "Contactor Schneider Electric Tesys D, 3P, 3NO, AC-3 440V, 65A, 380V AC 50/60Hz Coil - LC1D65AQ7",
+      "requestId": "162876",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:42:20.830Z"
+    },
+    "46976": {
+      "sku": "3389110442571",
+      "productId": "3389110442571",
+      "productName": "Contactor Schneider Electric Tesys D, 3P, 3NO, AC-3 440V, 80A, 220V AC 50/60Hz Coil - LC1D80M7",
+      "requestId": "162880",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:42:40.437Z"
+    },
+    "46991": {
+      "sku": "3389110399219",
+      "productId": "3389110399219",
+      "productName": "Control Relay Schneider Electric Tesys Deca, 3NO + 2NC, 0 to 690V, 24V AC 50/60Hz Standard Coil, Screw Clamp - CAD32B7",
+      "requestId": "162778",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:34:21.918Z"
+    },
+    "46993": {
+      "sku": "3389110400281",
+      "productId": "3389110400281",
+      "productName": "Control Relay Schneider Electric Tesys Deca, 3NO + 2NC, 0 to 690V, 48V AC 50/60Hz Standard Coil, Screw Clamp - CAD32E7",
+      "requestId": "162779",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:34:26.289Z"
+    },
+    "46997": {
+      "sku": "3389110405583",
+      "productId": "3389110405583",
+      "productName": "Control Relay Schneider Electric Tesys Deca, 5NO, 0 to 690V, 24V DC Standard Coil, Screw Clamp - CAD50BD",
+      "requestId": "162783",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:34:44.522Z"
+    },
+    "47001": {
+      "sku": "3389110350197",
+      "productId": "3389110350197",
+      "productName": "Contactor Schneider Electric Tesys D, 3P 3NO, AC3 440V, 32A, 110V AC Coil - LC1D32F7",
+      "requestId": "162855",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:40:39.611Z"
+    },
+    "47004": {
+      "sku": "3389110346725",
+      "productId": "3389110346725",
+      "productName": "Thermal Overload Relay Schneider Electric, 0.16...0.25 A, Class 10A, LRD02 - Dark Grey",
+      "requestId": "162905",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:44:33.370Z"
+    },
+    "47016": {
+      "sku": "3389110343038",
+      "productId": "3389110343038",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV2, 3P, 0.63-1 A, Thermal Magnetic, Screw Clamp Terminals - GV2ME05",
+      "requestId": "162797",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:35:50.255Z"
+    },
+    "47047": {
+      "sku": "3389110343090",
+      "productId": "3389110343090",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV2, 3P, 2.5-4 A, Thermal Magnetic, Screw Clamp Terminals - GV2ME08",
+      "requestId": "162799",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:36:00.056Z"
+    },
+    "47049": {
+      "sku": "3389110343175",
+      "productId": "3389110343175",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV2, 3P, 9-14 A, Thermal Magnetic, Screw Clamp Terminals - GV2ME16",
+      "requestId": "162800",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:36:04.938Z"
+    },
+    "47057": {
+      "sku": "3606480091971",
+      "productId": "3606480091971",
+      "productName": "Impulse Relay Schneider Electric, 2P, 1NO+1NC, 16A, Coil 110VDC, 230/240VAC, 50/60Hz - A9C30815",
+      "requestId": "162657",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:25:02.711Z"
+    },
+    "47072": {
+      "sku": "3389110349221",
+      "productId": "3389110349221",
+      "productName": "Contactor Schneider Electric Tesys D, 3P 3-NO, AC3, 440V, 12A, 110V AC Coil - LC1D12F7",
+      "requestId": "162838",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:39:19.340Z"
+    },
+    "47073": {
+      "sku": "3389110353075",
+      "productId": "3389110353075",
+      "productName": "Contactor Schneider Electric TeSys Deca, 3P (3NO), AC-3, 9A, 24V DC Coil - LC1D09BD",
+      "requestId": "162831",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:38:41.723Z"
+    },
+    "47076": {
+      "sku": "3389110348736",
+      "productId": "3389110348736",
+      "productName": "Contactor Schneider Electric Tesys D, 3P (3NO), AC-3, 9A, 48V AC Coil - LC1D09E7",
+      "requestId": "162832",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:38:46.251Z"
+    },
+    "47079": {
+      "sku": "3606480091926",
+      "productId": "3606480091926",
+      "productName": "Extension Module Schneider Electric, IETL/ITL, 16A, 2P, 1C/O + 1NO, Coil 110VDC / 230-240V AC 50/60Hz - A9C32816",
+      "requestId": "162658",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:25:07.231Z"
+    },
+    "47088": {
+      "sku": "3389119408974",
+      "productId": "3389119408974",
+      "productName": "Contactor Schneider Electric TeSys D, 3P, 3NO, AC3, 440V, 65A, 110V AC, 50-60Hz Coil - LC1D65AF7",
+      "requestId": "162875",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:42:14.575Z"
+    },
+    "47117": {
+      "sku": "3389110450651",
+      "productId": "3389110450651",
+      "productName": "Contactor Schneider Electric TeSys D, 3P (3 NO), AC-3, 440V 95A, 24 V AC 50/60 Hz Coil - LC1D95B7",
+      "requestId": "162882",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:42:49.314Z"
+    },
+    "47121": {
+      "sku": "3606480089206",
+      "productId": "3606480089206",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iID, 2P, 80A, 30mA, Type AC - A9R11280",
+      "requestId": "162757",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:32:43.968Z"
+    },
+    "47136": {
+      "sku": "3389110213645",
+      "productId": "3389110213645",
+      "productName": "Enclosure for Tesys Schneider Electric Tesys GV2, GV2ME, IP41 - GV2MC01",
+      "requestId": "162793",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:35:32.160Z"
+    },
+    "47144": {
+      "sku": "3389110442861",
+      "productId": "3389110442861",
+      "productName": "Contactor Schneider Electric TeSys D, 3P (3 NO) - AC-3 440 V 80 A - 380 V AC 50/60 Hz Coil - LC1D80Q7",
+      "requestId": "162881",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:42:44.865Z"
+    },
+    "47147": {
+      "sku": "3389110343434",
+      "productId": "3389110343434",
+      "productName": "Auxiliary Contact Schneider Electric TeSys GV2/GV3 - 1 NO (Normally Open) / NC (Normally Closed) - GVAE11",
+      "requestId": "162814",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:37:15.711Z"
+    },
+    "47153": {
+      "sku": "3606482165977",
+      "productId": "3606482165977",
+      "productName": "Disconnect Switch Schneider Electric Miluz E, 32AX, 250V, 2 Module, M3TB31_DP_32A - White",
+      "requestId": "162915",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:45:36.769Z"
+    },
+    "47155": {
+      "sku": "3606480089008",
+      "productId": "3606480089008",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iID, 2P 25A, 30mA, Type AC - A9R41225",
+      "requestId": "162765",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:33:22.748Z"
+    },
+    "47160": {
+      "sku": "3606480088582",
+      "productId": "3606480088582",
+      "productName": "Contactor iCT Schneider Electric, 3 Poles, 3NO, 25 A, 220..240 V AC - A9C20833",
+      "requestId": "162651",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:24:35.554Z"
+    },
+    "47175": {
+      "sku": "3389119408653",
+      "productId": "3389119408653",
+      "productName": "Contactor Schneider Electric Tesys D, 3 Pole, 50A, 440V AC, 110V AC Coil, 3 NO - LC1D50AF7",
+      "requestId": "162869",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:41:46.415Z"
+    },
+    "47189": {
+      "sku": "3389110343489",
+      "productId": "3389110343489",
+      "productName": "GV2 & GV3, Auxiliary Contact Block Schneider Electric TeSys, 1 NO + 1 NC - GVAN11",
+      "requestId": "162815",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:37:20.093Z"
+    },
+    "47233": {
+      "sku": "3389110891997",
+      "productId": "3389110891997",
+      "productName": "Pilot Light   Schneider Electric, Metal, Ø22, Plain Lens with Integral LED, 230-240V AC,   XB4BVM1 - White",
+      "requestId": "162947",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:26:08.347Z"
+    },
+    "47261": {
+      "sku": "3389110842463",
+      "productId": "3389110842463",
+      "productName": "Control Relay Schneider Electric TeSys Deca, 5NO, ≤690V, 220V AC 50/60Hz Standard Coil, Screw Clamp - CAD50M7",
+      "requestId": "162786",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:34:58.808Z"
+    },
+    "56488": {
+      "sku": "3389110349160",
+      "productId": "3389110349160",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 12 A - 24 V AC Coil - LC1D12B7",
+      "requestId": "162835",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:39:05.941Z"
+    },
+    "56489": {
+      "sku": "3389110353716",
+      "productId": "3389110353716",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 12 A - 24 V DC Coil - LC1D12BD",
+      "requestId": "162836",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:39:10.065Z"
+    },
+    "56490": {
+      "sku": "3606480379413",
+      "productId": "3606480379413",
+      "productName": "Miniature Circuit Breaker Schneider Acti9 C120N, 3P 125A, C Curve - A9N18369",
+      "requestId": "162746",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:31:52.688Z"
+    },
+    "56491": {
+      "sku": "3389110349320",
+      "productId": "3389110349320",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 12 A - 380 V AC Coil - LC1D12Q7",
+      "requestId": "162839",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:39:24.254Z"
+    },
+    "56492": {
+      "sku": "3389110354775",
+      "productId": "3389110354775",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 18 A - 24 V DC Coil - LC1D18BD",
+      "requestId": "162841",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:39:32.815Z"
+    },
+    "56493": {
+      "sku": "3606480379437",
+      "productId": "3606480379437",
+      "productName": "Miniature Circuit Breaker Schneider Acti9 C120N, 4P 80A, C Curve - A9N18372",
+      "requestId": "162747",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:31:57.435Z"
+    },
+    "56494": {
+      "sku": "3606480379482",
+      "productId": "3606480379482",
+      "productName": "Miniature Circuit Breaker Schneider Acti9 C120N, 4P 125A, C Curve - A9N18377",
+      "requestId": "162748",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:32:01.814Z"
+    },
+    "56495": {
+      "sku": "3389110349429",
+      "productId": "3389110349429",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 18 A - 48 V AC Coil - LC1D18E7",
+      "requestId": "162842",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:39:37.723Z"
+    },
+    "56496": {
+      "sku": "3606480380181",
+      "productId": "3606480380181",
+      "productName": "Miniature Circuit Breaker Schneider Acti9 C120H, 1P 100A, C Curve - A9N18447",
+      "requestId": "162749",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:32:06.609Z"
+    },
+    "56497": {
+      "sku": "3389110334180",
+      "productId": "3389110334180",
+      "productName": "D Contactor Schneider Electric TeSys, 4P (2 NO + 2 NC) - AC-1 - ≤ 440 V - 40 A - 24 V AC Coil - LC1D258B7",
+      "requestId": "162844",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:39:46.803Z"
+    },
+    "56498": {
+      "sku": "3389110250374",
+      "productId": "3389110250374",
+      "productName": "D Contactor Schneider Electric TeSys, 4P (2 NO + 2 NC) - AC-1 - ≤ 440 V - 40 A - 48 V AC Coil - LC1D258E7",
+      "requestId": "162845",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:39:51.808Z"
+    },
+    "56499": {
+      "sku": "3389110577495",
+      "productId": "3389110577495",
+      "productName": "D Contactor Schneider Electric TeSys, 4P (2 NO + 2 NC) - AC-1 - ≤ 440 V - 40 A - 110 V AC Coil - LC1D258F7",
+      "requestId": "162846",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:39:56.586Z"
+    },
+    "56500": {
+      "sku": "3606480380198",
+      "productId": "3606480380198",
+      "productName": "Miniature Circuit Breaker Schneider Acti9 C120H, 1P 125A, C Curve - A9N18448",
+      "requestId": "162750",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:32:11.559Z"
+    },
+    "56501": {
+      "sku": "3389110294378",
+      "productId": "3389110294378",
+      "productName": "D Contactor Schneider Electric TeSys, 4P (2 NO + 2 NC) - AC-1 - ≤ 440 V - 40 A - 220 V AC Coil - LC1D258M7",
+      "requestId": "162847",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:40:01.771Z"
+    },
+    "56502": {
+      "sku": "3606480380297",
+      "productId": "3606480380297",
+      "productName": "Miniature Circuit Breaker Schneider Acti9 C120H, 2P 100A, C Curve - A9N18458",
+      "requestId": "162751",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:32:16.105Z"
+    },
+    "56503": {
+      "sku": "3389110349658",
+      "productId": "3389110349658",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 25 A - 24 V AC Coil - LC1D25B7",
+      "requestId": "162848",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:40:06.383Z"
+    },
+    "56504": {
+      "sku": "3606480380501",
+      "productId": "3606480380501",
+      "productName": "Miniature Circuit Breaker Schneider Acti9 C120H, 4P 80A, C Curve - A9N18479",
+      "requestId": "162752",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:32:20.811Z"
+    },
+    "56505": {
+      "sku": "3389110355994",
+      "productId": "3389110355994",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 25 A - 24 V DC Coil - LC1D25BD",
+      "requestId": "162849",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:40:11.143Z"
+    },
+    "56506": {
+      "sku": "3606480376269",
+      "productId": "3606480376269",
+      "productName": "Earth Leakage Add-on Block Schneider Acti9 Vigi C120, 2P 125A, 30mA, Class AC - A9N18563",
+      "requestId": "162753",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:32:25.579Z"
+    },
+    "56507": {
+      "sku": "3389110349689",
+      "productId": "3389110349689",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 25 A - 48 V AC Coil - LC1D25E7",
+      "requestId": "162850",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:40:16.094Z"
+    },
+    "56508": {
+      "sku": "3606480376276",
+      "productId": "3606480376276",
+      "productName": "Earth Leakage Add-on Block Schneider Acti9 Vigi C120, 2P 125A, 300mA, Class AC - A9N18564",
+      "requestId": "162754",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:32:30.048Z"
+    },
+    "56509": {
+      "sku": "3606480376337",
+      "productId": "3606480376337",
+      "productName": "Earth Leakage Add-on Block Schneider Acti9 Vigi C120, 4P 125A, 300mA, Class AC - A9N18570",
+      "requestId": "162755",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:32:34.637Z"
+    },
+    "56510": {
+      "sku": "3606480089145",
+      "productId": "3606480089145",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iID, 2P 25A, 10mA, Type AC - A9R10225",
+      "requestId": "162756",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:32:39.254Z"
+    },
+    "56512": {
+      "sku": "3389110978520",
+      "productId": "3389110978520",
+      "productName": "Cam Switch Schneider Electric Harmony K, 1 Pole, 12A, 2-0-1, 45° Switching Angle, K1B001ULH - Black",
+      "requestId": "162644",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:24:03.377Z"
+    },
+    "56513": {
+      "sku": "3389110350067",
+      "productId": "3389110350067",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 25 A - 380 V AC Coil - LC1D25Q7",
+      "requestId": "162851",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:40:20.686Z"
+    },
+    "56514": {
+      "sku": "3389110979428",
+      "productId": "3389110979428",
+      "productName": "Cam Voltmeter Switch Schneider Electric Harmony K, 3-Phase, 12A, 7 Positions, 45° Switching Angle, K1F027MLH - Black",
+      "requestId": "162645",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:24:07.598Z"
+    },
+    "56515": {
+      "sku": "3389110350135",
+      "productId": "3389110350135",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 32 A - 24 V AC Coil - LC1D32B7",
+      "requestId": "162852",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:40:25.606Z"
+    },
+    "56517": {
+      "sku": "3389110357257",
+      "productId": "3389110357257",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 32 A - 24 V DC Coil - LC1D32BD",
+      "requestId": "162853",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:40:29.964Z"
+    },
+    "56519": {
+      "sku": "3303430186380",
+      "productId": "3303430186380",
+      "productName": "Circuit Breaker Schneider Electric Acti9, 3 Pole, 50A, C Curve, 18638 - NG125N",
+      "requestId": "162646",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:24:11.954Z"
+    },
+    "56520": {
+      "sku": "3389110350166",
+      "productId": "3389110350166",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 32 A - 48 V AC Coil - LC1D32E7",
+      "requestId": "162854",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:40:34.735Z"
+    },
+    "56521": {
+      "sku": "3303430186601",
+      "productId": "3303430186601",
+      "productName": "Circuit Breaker Schneider Electric Acti9, 4 Pole, 100A, C Curve, 18660 - NG125N",
+      "requestId": "162647",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:24:16.337Z"
+    },
+    "56522": {
+      "sku": "3389110357387",
+      "productId": "3389110357387",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 / AC-3e - ≤ 440 V - 32 A - 110 V DC Coil - LC1D32FD",
+      "requestId": "162856",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:40:44.195Z"
+    },
+    "56523": {
+      "sku": "3303430281023",
+      "productId": "3303430281023",
+      "productName": "Circuit Breaker Schneider Electric Compact, 3 Pole, 25A, Magnetic Trip - 28102",
+      "requestId": "162648",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:24:20.746Z"
+    },
+    "56524": {
+      "sku": "3303430504399",
+      "productId": "3303430504399",
+      "productName": "Closed Toroid Schneider Electric VigiPacT IA80, For Residual Current Protection, 80 mm Inner Diameter, 160A, 50439 - White",
+      "requestId": "162649",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:24:25.789Z"
+    },
+    "56525": {
+      "sku": "3606480088599",
+      "productId": "3606480088599",
+      "productName": "Contactor Schneider Electric Acti9 iCT, 4 Pole, 4 NO, 25A, 220–240V AC - A9C20834",
+      "requestId": "162652",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:24:40.050Z"
+    },
+    "56526": {
+      "sku": "3606480088612",
+      "productId": "3606480088612",
+      "productName": "Contactor Schneider Electric Acti9 iCT, 3 Pole, 3 NO, 40A, 220–240V AC - A9C20843",
+      "requestId": "162653",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:24:44.532Z"
+    },
+    "56527": {
+      "sku": "3606480088629",
+      "productId": "3606480088629",
+      "productName": "Contactor Schneider Electric Acti9 iCT, 4 Pole, 4 NO, 40A, 220–240V AC - A9C20844",
+      "requestId": "162654",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:24:49.156Z"
+    },
+    "56528": {
+      "sku": "3606480375156",
+      "productId": "3606480375156",
+      "productName": "Contactor Schneider Electric Acti9 iCT, 4 Pole, 4 NO, 63A, 220–240V AC - A9C20864",
+      "requestId": "162655",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:24:53.752Z"
+    },
+    "56531": {
+      "sku": "3606480088957",
+      "productId": "3606480088957",
+      "productName": "Impulse Relay Schneider Electric Acti9 iTL, 1 Pole, 1 NO, 16A - A9C30811",
+      "requestId": "162656",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:24:57.951Z"
+    },
+    "56533": {
+      "sku": "3606480558603",
+      "productId": "3606480558603",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iC60H RCBO, 1P+N, 10A, C Curve, 30mA, 240V AC - A9D11810",
+      "requestId": "162659",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:25:11.969Z"
+    },
+    "56534": {
+      "sku": "3606480089244",
+      "productId": "3606480089244",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iID, 2P 100A, 30mA, Type AC - A9R11291",
+      "requestId": "162758",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:32:48.815Z"
+    },
+    "56535": {
+      "sku": "3606480558610",
+      "productId": "3606480558610",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iC60H RCBO, 1P+N, 16A, C Curve, 30mA, 240V AC - A9D11816",
+      "requestId": "162660",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:25:16.921Z"
+    },
+    "56536": {
+      "sku": "3606480089374",
+      "productId": "3606480089374",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iID, 4P 80A, 30mA, Type AC - A9R11480",
+      "requestId": "162759",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:32:53.704Z"
+    },
+    "56537": {
+      "sku": "3606480558641",
+      "productId": "3606480558641",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iC60H RCBO, 1P+N, 32A, C Curve, 30mA, 240V AC - A9D11832",
+      "requestId": "162661",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:25:21.828Z"
+    },
+    "56538": {
+      "sku": "3606480558658",
+      "productId": "3606480558658",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iC60H RCBO, 1P+N, 40A, C Curve, 30mA, 240V AC - A9D11840",
+      "requestId": "162662",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:25:26.456Z"
+    },
+    "56539": {
+      "sku": "3606480612527",
+      "productId": "3606480612527",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 DPN N Vigi RCBO, 3P+N, 25A, C Curve, 30mA, 6kA - A9D31725",
+      "requestId": "162663",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:25:30.913Z"
+    },
+    "56540": {
+      "sku": "3606480089442",
+      "productId": "3606480089442",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iID, 4P 100A, 30mA, Type AC - A9R11491",
+      "requestId": "162760",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:32:58.752Z"
+    },
+    "56541": {
+      "sku": "3606480080227",
+      "productId": "3606480080227",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 1P, 1A, C Curve, 6kA - A9F74101",
+      "requestId": "162664",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:25:35.630Z"
+    },
+    "56542": {
+      "sku": "3606480089220",
+      "productId": "3606480089220",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iID, 2P 80A, 300mA, Type AC - A9R14280",
+      "requestId": "162761",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:33:03.753Z"
+    },
+    "56543": {
+      "sku": "3606480080241",
+      "productId": "3606480080241",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 1P, 3A, C Curve, 6kA - A9F74103",
+      "requestId": "162665",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:25:40.632Z"
+    },
+    "56544": {
+      "sku": "3606480089268",
+      "productId": "3606480089268",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iID, 2P 100A, 300mA, Type AC - A9R14291",
+      "requestId": "162762",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:33:08.417Z"
+    },
+    "56545": {
+      "sku": "3606480089398",
+      "productId": "3606480089398",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iID, 4P 80A, 300mA, Type AC - A9R14480",
+      "requestId": "162763",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:33:13.115Z"
+    },
+    "56546": {
+      "sku": "3606480080258",
+      "productId": "3606480080258",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 1P, 4A, C Curve, 6kA - A9F74104",
+      "requestId": "162666",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:25:45.330Z"
+    },
+    "56547": {
+      "sku": "3606480089466",
+      "productId": "3606480089466",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iID, 4P 100A, 300mA, Type AC - A9R14491",
+      "requestId": "162764",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:33:17.958Z"
+    },
+    "56548": {
+      "sku": "3606480080319",
+      "productId": "3606480080319",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 2P, 3A, C Curve, 6kA - A9F74203",
+      "requestId": "162667",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:25:50.037Z"
+    },
+    "56549": {
+      "sku": "3606480089022",
+      "productId": "3606480089022",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iID, 2P 40A, 30mA, Type AC - A9R41240",
+      "requestId": "162766",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:33:27.161Z"
+    },
+    "56550": {
+      "sku": "3606480089039",
+      "productId": "3606480089039",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iID, 2P 40A, 300mA, Type AC - A9R44240",
+      "requestId": "162767",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:33:31.428Z"
+    },
+    "56551": {
+      "sku": "3606480089053",
+      "productId": "3606480089053",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iID, 2P 63A, 300mA, Type AC - A9R44263",
+      "requestId": "162768",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:33:36.053Z"
+    },
+    "56552": {
+      "sku": "3606480094026",
+      "productId": "3606480094026",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 6A 1P C Curve - A9F77106",
+      "requestId": "162668",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:25:54.450Z"
+    },
+    "56553": {
+      "sku": "3606480094088",
+      "productId": "3606480094088",
+      "productName": "Miniature Circuit Breaker Schneider Electric, Acti9 iC60N 40A 1P C Curve - A9F77140",
+      "requestId": "162673",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:26:18.254Z"
+    },
+    "56554": {
+      "sku": "3606480089077",
+      "productId": "3606480089077",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iID, 4P 25A, 300mA, Type AC - A9R44425",
+      "requestId": "162769",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:33:40.668Z"
+    },
+    "56555": {
+      "sku": "3606480089114",
+      "productId": "3606480089114",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Acti9 iID, 4P 63A, 300mA, Type AC - A9R44463",
+      "requestId": "162770",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:33:45.298Z"
+    },
+    "56556": {
+      "sku": "3606480094132",
+      "productId": "3606480094132",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 2P, 16A, C Curve, 6kA - A9F77216",
+      "requestId": "162675",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:26:27.555Z"
+    },
+    "56557": {
+      "sku": "3606480094149",
+      "productId": "3606480094149",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 2P, 20A, C Curve, 6kA - A9F77220",
+      "requestId": "162676",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:26:32.022Z"
+    },
+    "56558": {
+      "sku": "3606480094170",
+      "productId": "3606480094170",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 2P, 40A, C Curve, 6kA - A9F77240",
+      "requestId": "162678",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:26:41.637Z"
+    },
+    "56559": {
+      "sku": "3606480094200",
+      "productId": "3606480094200",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 3P, 6A, C Curve, 6kA - A9F77306",
+      "requestId": "162680",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:26:50.665Z"
+    },
+    "56560": {
+      "sku": "3606480094217",
+      "productId": "3606480094217",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 3P, 10A, C Curve, 6kA - A9F77310",
+      "requestId": "162681",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:26:55.805Z"
+    },
+    "56561": {
+      "sku": "3606480094224",
+      "productId": "3606480094224",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 3P, 16A, C Curve, 6kA - A9F77316",
+      "requestId": "162682",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:26:59.954Z"
+    },
+    "56562": {
+      "sku": "3606480087325",
+      "productId": "3606480087325",
+      "productName": "Earth Leakage Add-on Block Schneider Vigi iC60, 2P 63A, 30mA, Type AC - A9V41263",
+      "requestId": "162771",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:33:49.522Z"
+    },
+    "56563": {
+      "sku": "3606480094231",
+      "productId": "3606480094231",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 3P, 20A, C Curve, 6kA - A9F77320",
+      "requestId": "162683",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:27:04.517Z"
+    },
+    "56564": {
+      "sku": "3606480087332",
+      "productId": "3606480087332",
+      "productName": "Earth Leakage Add-on Block Schneider Vigi iC60, 2P 63A, 300mA, Type AC - A9V44263",
+      "requestId": "162772",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:33:53.863Z"
+    },
+    "56565": {
+      "sku": "3606480087455",
+      "productId": "3606480087455",
+      "productName": "Earth Leakage Add-on Block Schneider Vigi iC60, 4P 63A, 300mA, Type AC - A9V44463",
+      "requestId": "162773",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:33:58.546Z"
+    },
+    "56566": {
+      "sku": "3606480094248",
+      "productId": "3606480094248",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 3P, 25A, C Curve, 6kA - A9F77325",
+      "requestId": "162684",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:27:09.119Z"
+    },
+    "56568": {
+      "sku": "13606480480485100",
+      "productId": "13606480480485100",
+      "productName": "Comb Busbar Schneider Acti9, 3L, 18 mm Pitch, 57 Modules, 100A - A9XPH357",
+      "requestId": "162774",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:34:03.193Z"
+    },
+    "56569": {
+      "sku": "3606480094330",
+      "productId": "3606480094330",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 4P, 25A, C Curve, 6kA - A9F77425",
+      "requestId": "162689",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:27:27.487Z"
+    },
+    "56570": {
+      "sku": "3606480094347",
+      "productId": "3606480094347",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 4P, 32A, C Curve, 6kA - A9F77432",
+      "requestId": "162690",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:27:31.833Z"
+    },
+    "56571": {
+      "sku": "3606480094354",
+      "productId": "3606480094354",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60N, 4P, 40A, C Curve, 6kA - A9F77440",
+      "requestId": "162691",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:27:36.659Z"
+    },
+    "56572": {
+      "sku": "3606487460466",
+      "productId": "3606487460466",
+      "productName": "Single Phase Power Supply Schneider, 240W, 24V DC, 10A, DIN Rail - ABLS1A24100E",
+      "requestId": "162775",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:34:07.773Z"
+    },
+    "56573": {
+      "sku": "3606487460473",
+      "productId": "3606487460473",
+      "productName": "Single Phase Power Supply Schneider, 480W, 24V DC, 20A, DIN Rail - ABLS1A24200E",
+      "requestId": "162776",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:34:12.453Z"
+    },
+    "56574": {
+      "sku": "731304338444",
+      "productId": "731304338444",
+      "productName": "Easy UPS Schneider Electric,500VA, 300W, 230V, 4x Schuko Outlets - BVS500I-GR",
+      "requestId": "162777",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:34:17.451Z"
+    },
+    "56575": {
+      "sku": "3389110534276",
+      "productId": "3389110534276",
+      "productName": "Control Relay Schneider Electric TeSys Deca, 3NO + 2NC, ≤690V, 110V AC 50/60Hz Standard Coil, Screw Clamp - CAD32F7",
+      "requestId": "162780",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:34:30.592Z"
+    },
+    "56576": {
+      "sku": "3389110401424",
+      "productId": "3389110401424",
+      "productName": "Control Relay Schneider Electric TeSys Deca, 3NO + 2NC, ≤690V, 220V AC 50/60Hz Standard Coil, Screw Clamp - CAD32M7",
+      "requestId": "162781",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:34:35.185Z"
+    },
+    "56577": {
+      "sku": "3389110401745",
+      "productId": "3389110401745",
+      "productName": "Control Relay Schneider Electric TeSys Deca, 3NO + 2NC, ≤690V, 380V AC 50/60Hz Standard Coil, Screw Clamp - CAD32Q7",
+      "requestId": "162782",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:34:39.959Z"
+    },
+    "56578": {
+      "sku": "3389110402933",
+      "productId": "3389110402933",
+      "productName": "Control Relay Schneider Electric TeSys Deca, 5NO, ≤690V, 48V AC 50/60Hz Standard Coil, Screw Clamp - CAD50E7",
+      "requestId": "162784",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:34:49.160Z"
+    },
+    "56579": {
+      "sku": "3389110402940",
+      "productId": "3389110402940",
+      "productName": "Control Relay Schneider Electric TeSys Deca, 5NO, ≤690V, 110V AC 50/60Hz Standard Coil, Screw Clamp - CAD50F7",
+      "requestId": "162785",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:34:53.509Z"
+    },
+    "56580": {
+      "sku": "3606480179587",
+      "productId": "3606480179587",
+      "productName": "Mechanical Time Switch Schneider Electric Acti9 IH, 24 Hours, 150 Hours Memory - CCT15365",
+      "requestId": "162787",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:35:03.143Z"
+    },
+    "56581": {
+      "sku": "3606489524616",
+      "productId": "3606489524616",
+      "productName": "Twilight Switch Schneider Electric Acti9 IC2000, 2–2000 Lux, Outdoor - CCT15369",
+      "requestId": "162788",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:35:07.468Z"
+    },
+    "56582": {
+      "sku": "3389110351705",
+      "productId": "3389110351705",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 32 A - 380 V AC Coil - LC1D32Q7",
+      "requestId": "162857",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:40:48.973Z"
+    },
+    "56583": {
+      "sku": "3389110352092",
+      "productId": "3389110352092",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 38 A - 24 V AC Coil - LC1D38B7",
+      "requestId": "162858",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:40:53.641Z"
+    },
+    "56584": {
+      "sku": "3389110359671",
+      "productId": "3389110359671",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 / AC-3e - ≤ 440 V - 38 A - 24 V DC Coil - LC1D38BD",
+      "requestId": "162859",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:40:57.919Z"
+    },
+    "56585": {
+      "sku": "3389110352658",
+      "productId": "3389110352658",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 / AC-3e - ≤ 440 V - 38 A - 380 V AC Coil - LC1D38Q7",
+      "requestId": "162861",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:41:09.397Z"
+    },
+    "56586": {
+      "sku": "3606480988202",
+      "productId": "3606480988202",
+      "productName": "D Contactor Schneider Electric TeSys, 3P - AC-3 - ≤ 440 V - 40 A - 24–60 V AC/DC Coil - LC1D40ABNE",
+      "requestId": "162863",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:41:18.828Z"
+    },
+    "56587": {
+      "sku": "3389119408349",
+      "productId": "3389119408349",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 40 A - 48 V AC Coil - LC1D40AE7",
+      "requestId": "162864",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:41:23.136Z"
+    },
+    "56588": {
+      "sku": "3389119408424",
+      "productId": "3389119408424",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 40 A - 380 V AC Coil - LC1D40AQ7",
+      "requestId": "162865",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:41:27.699Z"
+    },
+    "56589": {
+      "sku": "3389119408622",
+      "productId": "3389119408622",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 50 A - 24 V AC Coil - LC1D50AB7",
+      "requestId": "162866",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:41:32.334Z"
+    },
+    "56590": {
+      "sku": "3606480988233",
+      "productId": "3606480988233",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 50 A - 24–60 V AC/DC Coil - LC1D50ABNE",
+      "requestId": "162867",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:41:36.614Z"
+    },
+    "56591": {
+      "sku": "3389119408646",
+      "productId": "3389119408646",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 50 A - 48 V AC Coil - LC1D50AE7",
+      "requestId": "162868",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:41:41.528Z"
+    },
+    "56592": {
+      "sku": "3389119408721",
+      "productId": "3389119408721",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 50 A - 380 V AC Coil - LC1D50AQ7",
+      "requestId": "162870",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:41:51.041Z"
+    },
+    "56593": {
+      "sku": "3389110231793",
+      "productId": "3389110231793",
+      "productName": "D Contactor Schneider Electric TeSys, 4P (2 NO + 2 NC) - AC-1 - ≤ 440 V - 80 A - 220 V AC Coil - LC1D65008M7",
+      "requestId": "162871",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:41:55.729Z"
+    },
+    "56597": {
+      "sku": "3606480095832",
+      "productId": "3606480095832",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 1P, 10A, C Curve - A9F87110",
+      "requestId": "162692",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:27:40.968Z"
+    },
+    "56598": {
+      "sku": "3606480095856",
+      "productId": "3606480095856",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 1P, 20A, C Curve - A9F87120",
+      "requestId": "162694",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:27:53.775Z"
+    },
+    "56600": {
+      "sku": "3606480095870",
+      "productId": "3606480095870",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 1P, 32A, C Curve - A9F87132",
+      "requestId": "162696",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:28:02.698Z"
+    },
+    "56601": {
+      "sku": "3606480095917",
+      "productId": "3606480095917",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 2P, 6 A, C Curve - A9F87206",
+      "requestId": "162699",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:28:16.475Z"
+    },
+    "56602": {
+      "sku": "3606480095931",
+      "productId": "3606480095931",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 2P, 16 A, C Curve - A9F87216",
+      "requestId": "162701",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:28:25.554Z"
+    },
+    "56603": {
+      "sku": "3606480095955",
+      "productId": "3606480095955",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 2P, 25 A, C Curve - A9F87225",
+      "requestId": "162703",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:28:34.498Z"
+    },
+    "56604": {
+      "sku": "3606480095962",
+      "productId": "3606480095962",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 2P, 32 A, C Curve - A9F87232",
+      "requestId": "162704",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:28:38.813Z"
+    },
+    "56605": {
+      "sku": "3606480095979",
+      "productId": "3606480095979",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 2P, 40 A, C Curve - A9F87240",
+      "requestId": "162705",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:28:43.439Z"
+    },
+    "56606": {
+      "sku": "3606480095993",
+      "productId": "3606480095993",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 2P, 63 A, C Curve - A9F87263",
+      "requestId": "162706",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:28:47.763Z"
+    },
+    "56607": {
+      "sku": "3606480096020",
+      "productId": "3606480096020",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 3P, 16A, C Curve - A9F87316",
+      "requestId": "162709",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:29:02.787Z"
+    },
+    "56608": {
+      "sku": "3606480096037",
+      "productId": "3606480096037",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 3P, 20A, C Curve - A9F87320",
+      "requestId": "162710",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:29:07.158Z"
+    },
+    "56609": {
+      "sku": "3606480096051",
+      "productId": "3606480096051",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 3P, 32A, C Curve - A9F87332",
+      "requestId": "162712",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:29:16.075Z"
+    },
+    "56610": {
+      "sku": "3606480096105",
+      "productId": "3606480096105",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 4P, 10A, C Curve - A9F87410",
+      "requestId": "162714",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:29:24.852Z"
+    },
+    "56611": {
+      "sku": "3606480096129",
+      "productId": "3606480096129",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 4P, 20A, C Curve - A9F87420",
+      "requestId": "162715",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:29:29.178Z"
+    },
+    "56612": {
+      "sku": "3606480096136",
+      "productId": "3606480096136",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 4P, 25A, C Curve - A9F87425",
+      "requestId": "162716",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:29:33.613Z"
+    },
+    "56613": {
+      "sku": "3606480096143",
+      "productId": "3606480096143",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60H, 4P, 32A, C Curve - A9F87432",
+      "requestId": "162717",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:29:38.316Z"
+    },
+    "56614": {
+      "sku": "3606480084379",
+      "productId": "3606480084379",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 IC60L, 1P, 20A, C Curve - A9F94120",
+      "requestId": "162720",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:29:52.773Z"
+    },
+    "56615": {
+      "sku": "3606480084171",
+      "productId": "3606480084171",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 IC60L, 1P, 25A, C Curve - A9F94125",
+      "requestId": "162721",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:29:57.197Z"
+    },
+    "56616": {
+      "sku": "3606480084577",
+      "productId": "3606480084577",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 IC60L, 1P, 32A, C Curve - A9F94132",
+      "requestId": "162722",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:30:01.740Z"
+    },
+    "56617": {
+      "sku": "3606480084386",
+      "productId": "3606480084386",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60L, 2P, 3A, C Curve - A9F94203",
+      "requestId": "162725",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:30:15.623Z"
+    },
+    "56618": {
+      "sku": "3606480084584",
+      "productId": "3606480084584",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60L, 2P, 20A, C Curve - A9F94220",
+      "requestId": "162726",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:30:20.351Z"
+    },
+    "56619": {
+      "sku": "3606480084430",
+      "productId": "3606480084430",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60L, 3P, 20A, C Curve - A9F94320",
+      "requestId": "162728",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:30:30.194Z"
+    },
+    "56620": {
+      "sku": "3606480084447",
+      "productId": "3606480084447",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60L, 3P, 16A, C Curve - A9F94316",
+      "requestId": "162727",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:30:25.420Z"
+    },
+    "56621": {
+      "sku": "3606480084423",
+      "productId": "3606480084423",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60L, 3P, 25A, C Curve - A9F94325",
+      "requestId": "162729",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:30:34.259Z"
+    },
+    "56622": {
+      "sku": "3606480084614",
+      "productId": "3606480084614",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iC60L, 3P, 63A, C Curve - A9F94363",
+      "requestId": "162730",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:30:38.681Z"
+    },
+    "56623": {
+      "sku": "3606480087141",
+      "productId": "3606480087141",
+      "productName": "Miniature Circuit Breaker Schneider Electric Acti9 iK60N, 2P, 10A, C Curve - A9K24210",
+      "requestId": "162732",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:30:47.688Z"
+    },
+    "56624": {
+      "sku": "3606480506321",
+      "productId": "3606480506321",
+      "productName": "Modular Surge Arrester Schneider Electric iPRD40r, 1P, 350 V - A9L40101",
+      "requestId": "162741",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:31:29.875Z"
+    },
+    "56625": {
+      "sku": "3606481929334",
+      "productId": "3606481929334",
+      "productName": "Residual Current Circuit Breaker   Schneider Electric Resi9, 4P, 25A, AC Type, 30mA, 4.5K - R9R51463",
+      "requestId": "162927",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:46:26.802Z"
+    },
+    "56631": {
+      "sku": "3606480988264",
+      "productId": "3606480988264",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 65 A - 24–60 V AC/DC Coil - LC1D65ABNE",
+      "requestId": "162873",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:42:05.163Z"
+    },
+    "56634": {
+      "sku": "3389119408967",
+      "productId": "3389119408967",
+      "productName": "D Contactor Schneider Electric TeSys, 3P (3 NO) - AC-3 - ≤ 440 V - 65 A - 48 V AC Coil - LC1D65AE7",
+      "requestId": "162874",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:42:10.059Z"
+    },
+    "56635": {
+      "sku": "3606481312167",
+      "productId": "3606481312167",
+      "productName": "Contactor Schneider Electric TeSys D, 3P (3 NO) - AC-3 - ≤ 440 V - 80 A - 220 V AC Coil - LC1D80AM7",
+      "requestId": "162877",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:42:25.188Z"
+    },
+    "56636": {
+      "sku": "3389110440034",
+      "productId": "3389110440034",
+      "productName": "Contactor Schneider Electric TeSys D, 3P (3 NO) - AC-3 - ≤ 440 V - 80 A - 24 V AC Coil - LC1D80B7",
+      "requestId": "162878",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:42:29.984Z"
+    },
+    "56637": {
+      "sku": "3389110440522",
+      "productId": "3389110440522",
+      "productName": "Contactor Schneider Electric TeSys D, 3P (3 NO) - AC-3 - ≤ 440 V - 80 A - 48 V AC Coil - LC1D80E7",
+      "requestId": "162879",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:42:34.453Z"
+    },
+    "56638": {
+      "sku": "3389110334166",
+      "productId": "3389110334166",
+      "productName": "Contactor Schneider Electric TeSys D, 4P (2NO + 2NC), AC-1, 25A, 24V AC Coil - LC1D128B7",
+      "requestId": "162833",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:38:50.599Z"
+    },
+    "56639": {
+      "sku": "3389110450910",
+      "productId": "3389110450910",
+      "productName": "Contactor Schneider Electric TeSys D, 3P (3 NO) - AC-3 - ≤ 440 V - 95 A - 48 V AC Coil - LC1D95E7",
+      "requestId": "162883",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:42:53.739Z"
+    },
+    "56640": {
+      "sku": "3389110451177",
+      "productId": "3389110451177",
+      "productName": "Contactor Schneider Electric TeSys D, 3P (3 NO) - AC-3 - ≤ 440 V - 95 A - 110 V AC Coil - LC1D95F7",
+      "requestId": "162884",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:42:58.350Z"
+    },
+    "56642": {
+      "sku": "3389110577488",
+      "productId": "3389110577488",
+      "productName": "Contactor Schneider Electric TeSys D, 4P (2NO + 2NC), AC-1, 25A, 220V AC Coil - LC1D128M7",
+      "requestId": "162834",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:39:01.604Z"
+    },
+    "56643": {
+      "sku": "3389110451634",
+      "productId": "3389110451634",
+      "productName": "Contactor Schneider Electric TeSys D, 3P (3 NO) - AC-3 - ≤ 440 V - 95 A - 220 V AC Coil - LC1D95M7",
+      "requestId": "162885",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:43:02.800Z"
+    },
+    "56645": {
+      "sku": "3389110348675",
+      "productId": "3389110348675",
+      "productName": "IEC Contactor Schneider Electric TeSys Deca, 3P (3NO), AC-3, 9A, 24V AC Coil - LC1D09B7",
+      "requestId": "162830",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:38:37.206Z"
+    },
+    "56646": {
+      "sku": "3389110383928",
+      "productId": "3389110383928",
+      "productName": "Auxiliary Contact Block Schneider Electric TeSys D, 1NO + 3NC, Front Mounting, Screw Clamp Terminals - LADN13",
+      "requestId": "162823",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:38:04.410Z"
+    },
+    "56647": {
+      "sku": "3606485810898",
+      "productId": "3606485810898",
+      "productName": "Changeover Switch Schneider Electric   Resi9, 2P, 40A, 230/240VAC - R9SCO240",
+      "requestId": "162928",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:46:31.075Z"
+    },
+    "56652": {
+      "sku": "3389110386189",
+      "productId": "3389110386189",
+      "productName": "Time Delay Auxiliary Contact Block Schneider Electric TeSys Deca, 1NO + 1NC, Off Delay 1-30s, Front Mounting - LADR2",
+      "requestId": "162824",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:38:09.261Z"
+    },
+    "56653": {
+      "sku": "3389110386233",
+      "productId": "3389110386233",
+      "productName": "Time Delay Auxiliary Contact Block Schneider Electric TeSys Deca, 1NO + 1NC, Off Delay 10-180s, Front Mounting - LADR4",
+      "requestId": "162825",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:38:14.431Z"
+    },
+    "56654": {
+      "sku": "3389110386103",
+      "productId": "3389110386103",
+      "productName": "Time Delay Auxiliary Contact Block Schneider Electric TeSys Deca, 1NO + 1NC, On Delay 1-30s, Star Delta Starter - LADS2",
+      "requestId": "162826",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:38:18.872Z"
+    },
+    "56655": {
+      "sku": "3606480395079",
+      "productId": "3606480395079",
+      "productName": "Terminal Block Schneider Electric Easy TeSys Protect, Removable, For LRE01-E35 - LAEB1",
+      "requestId": "162827",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:38:23.124Z"
+    },
+    "56656": {
+      "sku": "3606480321764",
+      "productId": "3606480321764",
+      "productName": "Mechanical Interlock Schneider Electric Easy TeSys Control, 3P, For LC1E120-E160 - LAEM5",
+      "requestId": "162828",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:38:28.062Z"
+    },
+    "56658": {
+      "sku": "3606480325274",
+      "productId": "3606480325274",
+      "productName": "Auxiliary Contact Block Schneider Electric Easy TeSys Control, 2NC, Front Mounting, For LC1E/CAE - LAEN02",
+      "requestId": "162829",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:38:32.802Z"
+    },
+    "56660": {
+      "sku": "13389110500056",
+      "productId": "13389110500056",
+      "productName": "Auxiliary Contact Block Schneider Electric TeSys K, 1NO + 1NC, Front Mounting, Screw Terminals - LA1KN11",
+      "requestId": "162817",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:37:29.374Z"
+    },
+    "56661": {
+      "sku": "3606481916068",
+      "productId": "3606481916068",
+      "productName": "Mechanical Interlock Schneider Electric TeSys Giga, 3P/4P, For LC1G115-500 - LA9G970",
+      "requestId": "162818",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:37:34.135Z"
+    },
+    "56662": {
+      "sku": "3606485810928",
+      "productId": "3606485810928",
+      "productName": "Changeover Switch Schneider Electric   Resi9, 4P, 40A, 400/415VAC - R9SCO440",
+      "requestId": "162929",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:46:36.042Z"
+    },
+    "56663": {
+      "sku": "3606481916075",
+      "productId": "3606481916075",
+      "productName": "Mechanical Interlock Schneider Electric TeSys Giga, 3P, For LC1G115-225 / LC1G265-500 - LA9G971",
+      "requestId": "162819",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:37:39.011Z"
+    },
+    "56666": {
+      "sku": "3606481916082",
+      "productId": "3606481916082",
+      "productName": "Mechanical Interlock Schneider Electric TeSys Giga, 3P, For LC1G265-500 / LC1G630-800 - LA9G972",
+      "requestId": "162820",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:37:43.547Z"
+    },
+    "56668": {
+      "sku": "3389110384710",
+      "productId": "3389110384710",
+      "productName": "Auxiliary Contact Block Schneider Electric TeSys Deca, 2NO, Side Mounting, Screw Terminals - LAD8N20",
+      "requestId": "162821",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:37:52.429Z"
+    },
+    "56669": {
+      "sku": "3389119407090",
+      "productId": "3389119407090",
+      "productName": "Everlink Power Termination Block Schneider Electric TeSys, Size 3, 3P, For LRD3 / LC1D40A-D80A - LAD96560",
+      "requestId": "162822",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:37:59.622Z"
+    },
+    "56672": {
+      "sku": "3606481309662",
+      "productId": "3606481309662",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV4, 3P, 115A, Magnetic - GV4LE115N",
+      "requestId": "162811",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:37:01.905Z"
+    },
+    "56673": {
+      "sku": "3606481309648",
+      "productId": "3606481309648",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV4, 3P, 50A, Magnetic - GV4LE50N",
+      "requestId": "162812",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:37:06.811Z"
+    },
+    "56674": {
+      "sku": "3606481309655",
+      "productId": "3606481309655",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV4, 3P, 80A, Magnetic - GV4LE80N",
+      "requestId": "162813",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:37:11.201Z"
+    },
+    "56675": {
+      "sku": "3389110343502",
+      "productId": "3389110343502",
+      "productName": "Auxiliary Contact Block Schneider Electric TeSys GV2 & GV3, 2NO, Left Side Mounting - GVAN20",
+      "requestId": "162816",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:37:24.843Z"
+    },
+    "56676": {
+      "sku": "3389110213447",
+      "productId": "3389110213447",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV2, 3P, 0.63–1A, Thermal Magnetic - GV2P05",
+      "requestId": "162802",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:36:18.342Z"
+    },
+    "56677": {
+      "sku": "3389110213454",
+      "productId": "3389110213454",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV2, 3P, 1–1.6A, Thermal Magnetic - GV2P06",
+      "requestId": "162803",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:36:23.024Z"
+    },
+    "56678": {
+      "sku": "3389110213461",
+      "productId": "3389110213461",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV2, 3P, 1.6–2.5A, Thermal Magnetic - GV2P07",
+      "requestId": "162804",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:36:27.844Z"
+    },
+    "56679": {
+      "sku": "3389110213478",
+      "productId": "3389110213478",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV2, 3P, 2.5–4A, Thermal Magnetic - GV2P08",
+      "requestId": "162805",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:36:32.664Z"
+    },
+    "56680": {
+      "sku": "3389110213485",
+      "productId": "3389110213485",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV2, 3P, 4–6.3A, Thermal Magnetic - GV2P10",
+      "requestId": "162806",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:36:37.285Z"
+    },
+    "56681": {
+      "sku": "3389110213492",
+      "productId": "3389110213492",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV2, 3P, 6–10A, Thermal Magnetic - GV2P14",
+      "requestId": "162807",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:36:42.078Z"
+    },
+    "56682": {
+      "sku": "3389110213515",
+      "productId": "3389110213515",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV2, 3P, 13–18A, Thermal Magnetic - GV2P20",
+      "requestId": "162808",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:36:46.268Z"
+    },
+    "56683": {
+      "sku": "3389110213522",
+      "productId": "3389110213522",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV2, 3P, 17–23A, Thermal Magnetic - GV2P21",
+      "requestId": "162809",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:36:50.617Z"
+    },
+    "56684": {
+      "sku": "3389110376104",
+      "productId": "3389110376104",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV2, 3P, 24–32A, Thermal Magnetic - GV2P32",
+      "requestId": "162810",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:36:55.243Z"
+    },
+    "56686": {
+      "sku": "3606485810935",
+      "productId": "3606485810935",
+      "productName": "Changeover Switch Schneider Electric   Resi9, 4P, 63A, 400/415VAC - R9SCO463",
+      "requestId": "162930",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:46:40.562Z"
+    },
+    "56687": {
+      "sku": "3389110282047",
+      "productId": "3389110282047",
+      "productName": "Harmony Liquid Level Control Probe   Schneider Electric, 200°C – RM79696043",
+      "requestId": "162931",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:46:44.738Z"
+    },
+    "56688": {
+      "sku": "3389110343212",
+      "productId": "3389110343212",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV2, 3P, 17-23 A, Thermal Magnetic, Screw Clamp Terminals - GV2ME21",
+      "requestId": "162801",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:36:11.749Z"
+    },
+    "56689": {
+      "sku": "3389110342970",
+      "productId": "3389110342970",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV2, 3P, 0.16-0.25 A, Thermal Magnetic, Screw Clamp Terminals - GV2ME02",
+      "requestId": "162795",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:35:41.157Z"
+    },
+    "56690": {
+      "sku": "13606480688734",
+      "productId": "13606480688734",
+      "productName": "Interface Plug-in Relay Schneider   Electric Harmony, 10A, 1 C/O, 24V DC , LED - RXG12BD",
+      "requestId": "162933",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:46:53.772Z"
+    },
+    "56691": {
+      "sku": "3389110342994",
+      "productId": "3389110342994",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV2, 3P, 0.25-0.4 A, Thermal Magnetic, Screw Clamp Terminals - GV2ME03",
+      "requestId": "162796",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:35:45.824Z"
+    },
+    "56692": {
+      "sku": "3389110343076",
+      "productId": "3389110343076",
+      "productName": "Motor Circuit Breaker Schneider Electric TeSys GV2, 3P, 1.6-2.5 A, Thermal Magnetic, Screw Clamp Terminals - GV2ME07",
+      "requestId": "162798",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:35:55.209Z"
+    },
+    "56693": {
+      "sku": "3389110213652",
+      "productId": "3389110213652",
+      "productName": "Enclosure Schneider Electric TeSys GV2, IP55, for GV2ME - GV2MC02",
+      "requestId": "162794",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:35:36.507Z"
+    },
+    "56694": {
+      "sku": "13606480688703",
+      "productId": "13606480688703",
+      "productName": "Interface Plug-in Relay Schneider   Electric Harmony, 10A, 1 C/O, 230V AC, with LED – RXG12P7",
+      "requestId": "162934",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:46:57.947Z"
+    },
+    "56695": {
+      "sku": "13606486831141",
+      "productId": "13606486831141",
+      "productName": "Plug-in Relay Schneider Electric Harmony,   10A, 1 C/O, 230V AC - RXG18P7",
+      "requestId": "162935",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:47:02.143Z"
+    },
+    "56696": {
+      "sku": "13606480689397",
+      "productId": "13606480689397",
+      "productName": "Plug-in Relay Schneider   Electric Harmony, 5A, 2 C/O, 24V DC, Transparent Cover – RXG25BD",
+      "requestId": "162936",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:47:06.774Z"
+    },
+    "56697": {
+      "sku": "3389110451832",
+      "productId": "3389110451832",
+      "productName": "Contactor Schneider Electric TeSys D, 3P (3 NO) - AC-3 - ≤ 440 V - 95 A - 380 V AC Coil - LC1D95Q7",
+      "requestId": "162886",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:43:07.361Z"
+    },
+    "56698": {
+      "sku": "13606486831110",
+      "productId": "13606486831110",
+      "productName": "Plug-in Relay Schneider Electric Harmony,   5A, 2 C/O, 230V AC, With LED - RXG26P7",
+      "requestId": "162937",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:47:11.526Z"
+    },
+    "56699": {
+      "sku": "3389110244540",
+      "productId": "3389110244540",
+      "productName": "Contactor Schneider Electric TeSys D, 4P (4 NO) - AC-1 - ≤ 440 V - 25 A - 24 V AC Coil - LC1DT25B7",
+      "requestId": "162887",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:43:11.992Z"
+    },
+    "56700": {
+      "sku": "13606480077835",
+      "productId": "13606480077835",
+      "productName": "Slim Relay Schneider Electric Harmony,   6A, 1 C/O, 24V AC/DC, with LED and Protection Circuit - RSL1PVBU",
+      "requestId": "162932",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:46:49.535Z"
+    },
+    "56701": {
+      "sku": "3389110577662",
+      "productId": "3389110577662",
+      "productName": "Contactor Schneider Electric TeSys D, 4P (4 NO) - AC-1 - ≤ 440 V - 25 A - 110 V AC Coil - LC1DT25F7",
+      "requestId": "162888",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:43:16.621Z"
+    },
+    "56702": {
+      "sku": "3389110555936",
+      "productId": "3389110555936",
+      "productName": "Comb Busbar Schneider Electric Linergy FT, 3P, 63A, 2 Tap-Offs, 54 mm Pitch - GV2G254",
+      "requestId": "162790",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:35:18.503Z"
+    },
+    "56703": {
+      "sku": "3389110577679",
+      "productId": "3389110577679",
+      "productName": "Contactor Schneider Electric TeSys D, 4P (4 NO) - AC-1 - ≤ 440 V - 25 A - 220 V AC Coil - LC1DT25M7",
+      "requestId": "162889",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:43:20.836Z"
+    },
+    "56704": {
+      "sku": "3389110555912",
+      "productId": "3389110555912",
+      "productName": "Comb Busbar Schneider Electric Linergy FT, 3P, 63A, 3 Tap-Offs, 54 mm Pitch - GV2G354",
+      "requestId": "162791",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:35:23.323Z"
+    },
+    "56705": {
+      "sku": "3389110555851",
+      "productId": "3389110555851",
+      "productName": "Comb Busbar Schneider Electric Linergy FT, 3P, 63A, 5 Tap-Offs, 54 mm Pitch - GV2G554",
+      "requestId": "162792",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:35:27.663Z"
+    },
+    "56706": {
+      "sku": "13389110569060",
+      "productId": "13389110569060",
+      "productName": "Combination Block Schneider Electric Linergy FT, 3P, 32A, for LC1D09-D38 - GV2AF3",
+      "requestId": "162789",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:35:14.025Z"
+    },
+    "56709": {
+      "sku": "3389110244595",
+      "productId": "3389110244595",
+      "productName": "Contactor Schneider Electric TeSysD, 4P (4 NO) - AC-1 - ≤ 440 V - 32 A - 24 V AC Coil - LC1DT32B7",
+      "requestId": "162890",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:43:25.643Z"
+    },
+    "56710": {
+      "sku": "3389110244601",
+      "productId": "3389110244601",
+      "productName": "Contactor Schneider Electric TeSys D, 4P (4 NO) - AC-1 - ≤ 440 V - 32 A - 48 V AC Coil - LC1DT32E7",
+      "requestId": "162891",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:43:29.885Z"
+    },
+    "56711": {
+      "sku": "3389110338126",
+      "productId": "3389110338126",
+      "productName": "Contactor Schneider Electric TeSys D, 4P (4 NO) - AC-1 - ≤ 440 V - 32 A - 110 V AC Coil - LC1DT32F7",
+      "requestId": "162892",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:43:34.284Z"
+    },
+    "56712": {
+      "sku": "3389110338225",
+      "productId": "3389110338225",
+      "productName": "Contactor Schneider Electric TeSys D, 4P (4 NO) - AC-1 - ≤ 440 V - 32 A - 220 V AC Coil - LC1DT32M7",
+      "requestId": "162893",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:43:38.677Z"
+    },
+    "56713": {
+      "sku": "3389110244649",
+      "productId": "3389110244649",
+      "productName": "Contactor Schneider Electric TeSys D, 4P (4 NO) - AC-1 - ≤ 440 V - 40 A - 24 V AC Coil - LC1DT40B7",
+      "requestId": "162894",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:43:43.150Z"
+    },
+    "56714": {
+      "sku": "3389110244656",
+      "productId": "3389110244656",
+      "productName": "Contactor Schneider Electric TeSys D, 4P (4 NO) - AC-1 - ≤ 440 V - 40 A - 48 V AC Coil - LC1DT40E7",
+      "requestId": "162895",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:43:47.808Z"
+    },
+    "56715": {
+      "sku": "3389110577693",
+      "productId": "3389110577693",
+      "productName": "Contactor Schneider Electric TeSys D, 4P (4 NO) - AC-1 - ≤ 440 V - 40 A - 110 V AC Coil - LC1DT40F7",
+      "requestId": "162896",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:43:52.381Z"
+    },
+    "56716": {
+      "sku": "3389110577709",
+      "productId": "3389110577709",
+      "productName": "Contactor Schneider Electric TeSys D, 4P (4 NO) - AC-1 - ≤ 440 V - 40 A - 220 V AC Coil - LC1DT40M7",
+      "requestId": "162897",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:43:56.866Z"
+    },
+    "56717": {
+      "sku": "3389119409292",
+      "productId": "3389119409292",
+      "productName": "Contactor Schneider Electric TeSys D, 4P (4 NO) - AC-1 - ≤ 440 V - 60 A - 220 V AC Coil - LC1DT60AM7",
+      "requestId": "162898",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:44:01.341Z"
+    },
+    "56718": {
+      "sku": "3389119409438",
+      "productId": "3389119409438",
+      "productName": "Contactor Schneider Electric TeSys D, 4P (4 NO) - AC-1 - ≤ 440 V - 80 A - 220 V AC Coil - LC1DT80AM7",
+      "requestId": "162899",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:44:05.547Z"
+    },
+    "56719": {
+      "sku": "3389110787931",
+      "productId": "3389110787931",
+      "productName": "Thermal Overload Relay Schneider TeSys LRD, 90–150 A, Class 10 - LR9D5369",
+      "requestId": "162900",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:44:10.131Z"
+    },
+    "56720": {
+      "sku": "3389110565997",
+      "productId": "3389110565997",
+      "productName": "Thermal Overload Relay Schneider TeSys LRF, 60–100 A, Class 10 - LR9F5367",
+      "requestId": "162901",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:44:14.380Z"
+    },
+    "56721": {
+      "sku": "3389110566031",
+      "productId": "3389110566031",
+      "productName": "Thermal Overload Relay Schneider TeSys LRF, 300–500 A, Class 10 - LR9F7379",
+      "requestId": "162902",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:44:18.900Z"
+    },
+    "56722": {
+      "sku": "3389110566048",
+      "productId": "3389110566048",
+      "productName": "Motor Thermal Overload Relay Schneider TeSys LR, 380–630 A, Class 10 - LR9F7381",
+      "requestId": "162903",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:44:23.629Z"
+    },
+    "56723": {
+      "sku": "3389110640229",
+      "productId": "3389110640229",
+      "productName": "Electronic Thermal Overload Relay Schneider TeSys LRF, 300–500 A, Class 20 - LR9F7579",
+      "requestId": "162904",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:44:28.496Z"
+    },
+    "56724": {
+      "sku": "13389119403884",
+      "productId": "13389119403884",
+      "productName": "Miniature   Plug-in Relay Schneider Electric Harmony, 6A, 4 C/O, 230V AC - RXM4AB2P7",
+      "requestId": "162938",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:47:15.923Z"
+    },
+    "56725": {
+      "sku": "3606487389194",
+      "productId": "3606487389194",
+      "productName": "Empty   Enclosure Schneider Electric Easy Harmony XALB, Plastic, 1 Cut-Out, 22 mm,   IP65, XALB015YC - Yellow Cover",
+      "requestId": "162940",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:47:20.311Z"
+    },
+    "56726": {
+      "sku": "3389110892208",
+      "productId": "3389110892208",
+      "productName": "Illuminated Selector Switch Schneider Electric   Harmony XB4, Metal, 22 mm, 2 Positions, 1 NO + 1 NC, XB4BK124B5 - Red",
+      "requestId": "162941",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:47:24.741Z"
+    },
+    "56727": {
+      "sku": "3389110892277",
+      "productId": "3389110892277",
+      "productName": "Illuminated   Selector Switch Schneider Electric Harmony XB4, Metal, 22 mm, 2 Positions, 1   NO + 1 NC, XB4BK125M5 – Orange",
+      "requestId": "162942",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:47:29.299Z"
+    },
+    "56728": {
+      "sku": "3606480625053",
+      "productId": "3606480625053",
+      "productName": "Emergency Stop Push Button Schneider Electric   Harmony XB4, Metal, Ø40 mm Mushroom Head, 1 NC, Red - XB4BS8442",
+      "requestId": "162943",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:47:34.022Z"
+    },
+    "56729": {
+      "sku": "13606481499339",
+      "productId": "13606481499339",
+      "productName": "Telemecanique Limit Switch, Standard XCJ, Stainless Steel Roller Plunger, Horizontal   Actuation - XCJ102C",
+      "requestId": "162948",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:26:13.011Z"
+    },
+    "56730": {
+      "sku": "13606481499346",
+      "productId": "13606481499346",
+      "productName": "Telemecanique   Limit Switch, Standard XCJ, Stainless Steel Roller Plunger, Vertical   Actuation – XCJ103C",
+      "requestId": "162949",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:26:17.900Z"
+    },
+    "56731": {
+      "sku": "13606481499353",
+      "productId": "13606481499353",
+      "productName": "Telemecanique   Limit Switch, Standard XC, XCJ, Steel End Plunger, Vertical Actuation –   XCJ110C",
+      "requestId": "162950",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:26:22.745Z"
+    },
+    "56732": {
+      "sku": "13606481499384",
+      "productId": "13606481499384",
+      "productName": "Telemecanique   Limit Switch, Standard XC, XCJ, Long Flat Steel Lever Plunger, Vertical   Actuation – XCJ126C",
+      "requestId": "162951",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:26:27.240Z"
+    },
+    "56733": {
+      "sku": "13606481499407",
+      "productId": "13606481499407",
+      "productName": "Telemecanique   Limit Switch, Standard XC, XCJ, Long Flat Steel Roller Lever Plunger, Lateral   Actuation – XCJ128C",
+      "requestId": "162952",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:26:31.599Z"
+    },
+    "56734": {
+      "sku": "3389110646023",
+      "productId": "3389110646023",
+      "productName": "Telemecanique   Limit Switch, Standard XC, XCKJ, Thermoplastic Roller Lever, 1 NC + 1 NO,   Snap Action - XCKJ10511",
+      "requestId": "162953",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:26:36.304Z"
+    },
+    "56735": {
+      "sku": "3389110646030",
+      "productId": "3389110646030",
+      "productName": "Telemecanique   Limit Switch, Standard XC, XCKJ, Adjustable-Length Thermoplastic Roller   Lever, 1 NC + 1 NO, Snap Action - XCKJ10541",
+      "requestId": "162954",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:26:40.626Z"
+    },
+    "56736": {
+      "sku": "3389110646009",
+      "productId": "3389110646009",
+      "productName": "Telemecanique   Limit Switch, Standard XC, XCKJ, Metal End Plunger, 1 NC + 1 NO, Snap Action   – XCKJ161",
+      "requestId": "162955",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:26:45.045Z"
+    },
+    "56737": {
+      "sku": "3389110645989",
+      "productId": "3389110645989",
+      "productName": "Telemecanique   Limit Switch, Standard XC, XCKJ, Reinforced Steel Roller Plunger, 1 NC + 1   NO, Snap Action - XCKJ167",
+      "requestId": "162956",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:26:49.436Z"
+    },
+    "56738": {
+      "sku": "3389110646436",
+      "productId": "3389110646436",
+      "productName": "Telemecanique   Limit Switch, Standard XC, XCKM, Steel Roller Plunger, 1 NC + 1 NO, Snap   Action – XCKM102",
+      "requestId": "162957",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:26:54.088Z"
+    },
+    "56739": {
+      "sku": "3389110646443",
+      "productId": "3389110646443",
+      "productName": "Telemecanique   Limit Switch, Standard XC, XCKM, Thermoplastic Roller Lever, 1 NC + 1 NO,   Snap Action - XCKM115",
+      "requestId": "162958",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:26:58.305Z"
+    },
+    "56740": {
+      "sku": "3389110646450",
+      "productId": "3389110646450",
+      "productName": "Telemecanique   Limit Switch, Standard XC, XCKM, Thermoplastic Roller Lever Plunger, 1 NC + 1   NO, Snap Action - XCKM121",
+      "requestId": "162959",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:27:02.756Z"
+    },
+    "56741": {
+      "sku": "3389110681949",
+      "productId": "3389110681949",
+      "productName": "Telemecanique Limit Switch, Special XC,   XCKMR, Stay-Put Crossed Rod Lever 6 mm, 2 × (2 NC), Slow-Break - XCKMR54D1",
+      "requestId": "162960",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:27:07.065Z"
+    },
+    "56742": {
+      "sku": "13389110318910",
+      "productId": "13389110318910",
+      "productName": "Telemecanique Limit Switch, Standard XC,   XCKN, Plastic Roller Plunger, 1 NC + 1 NO, Snap Action - XCKN2102G11",
+      "requestId": "162961",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:27:11.430Z"
+    },
+    "56743": {
+      "sku": "3389110318920",
+      "productId": "3389110318920",
+      "productName": "Telemecanique Limit Switch, Standard XC,   XCKN, Plastic Roller Plunger at 90°, 1 NC + 1 NO, Snap Action - XCKN2103G11",
+      "requestId": "162962",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:27:15.865Z"
+    },
+    "56744": {
+      "sku": "13389110214359",
+      "productId": "13389110214359",
+      "productName": "Telemecanique Limit Switch, Standard XC,   XCKN, Multi-Directional Cat's Whisker, 1 NC + 1 NO, Snap Action - XCKN2106P20",
+      "requestId": "162963",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:27:20.297Z"
+    },
+    "56745": {
+      "sku": "13389110319030",
+      "productId": "13389110319030",
+      "productName": "Telemecanique Limit Switch, Standard XC,   XCKN, Spring Rod Lever with Nitrile Boot, 1 NC + 1 NO, Snap Action -   XCKN2108G11",
+      "requestId": "162964",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:27:24.979Z"
+    },
+    "56746": {
+      "sku": "13389110318972",
+      "productId": "13389110318972",
+      "productName": "Telemecanique Limit Switch, Standard XC,   XCKN, Thermoplastic Roller Lever, 1 NC + 1 NO, Snap Action - XCKN2118G11",
+      "requestId": "162965",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:27:29.577Z"
+    },
+    "56747": {
+      "sku": "13389110318996",
+      "productId": "13389110318996",
+      "productName": "Telemecanique Limit Switch, Standard XC,   XCKN, Variable-Length Thermoplastic Roller Lever, 1 NC + 1 NO, Snap Action –   XCKN2145G11",
+      "requestId": "162967",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:27:38.371Z"
+    },
+    "56748": {
+      "sku": "3389110214338",
+      "productId": "3389110214338",
+      "productName": "Telemecanique Limit Switch, Standard XC,   XCKN, Plastic Roller Lever Ø50 mm Variable Length, 1 NC + 1 NO, Snap Action -   XCKN2149P20",
+      "requestId": "162969",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:27:47.181Z"
+    },
+    "56749": {
+      "sku": "13389110318958",
+      "productId": "13389110318958",
+      "productName": "Telemecanique Limit Switch, Standard XC,   XCKP, Thermoplastic Roller Lever Plunger, Horizontal, 1 NC + 1 NO, Snap   Action – XCKP2121G11",
+      "requestId": "162971",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:28:02.448Z"
+    },
+    "56750": {
+      "sku": "3389110319071",
+      "productId": "3389110319071",
+      "productName": "Telemecanique Limit Switch, Standard XC,   XCKT, Metal End Plunger, 1 NC + 1 NO, Snap Action - XCKT2110G11",
+      "requestId": "162972",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:28:06.954Z"
+    },
+    "56751": {
+      "sku": "3389110218367",
+      "productId": "3389110218367",
+      "productName": "Telemecanique Limit Switch, Standard XC,   XCMD, Metal End Plunger, 1 NC + 1 NO, Snap Action, 1 m Cable - XCMD2110L1",
+      "requestId": "162973",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:28:11.584Z"
+    },
+    "56752": {
+      "sku": "3389119215480",
+      "productId": "3389119215480",
+      "productName": "Thermal Overload Relay Schneider Electric TeSys Deca, 23–32 A, 1 NO + 1 NC, Class 10A - LRD332",
+      "requestId": "162908",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:45:02.392Z"
+    },
+    "56753": {
+      "sku": "3389110520064",
+      "productId": "3389110520064",
+      "productName": "Thermal Overload Relay Schneider Electric TeSys LRD, 80–104 A, Class 10A - LRD3365",
+      "requestId": "162909",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:45:06.539Z"
+    },
+    "56764": {
+      "sku": "3389110523348",
+      "productId": "3389110523348",
+      "productName": "Thermal Overload Relay Schneider Electric TeSys Deca, 95–120 A, Class 10A - LRD4367",
+      "requestId": "162910",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:45:14.422Z"
+    },
+    "56766": {
+      "sku": "3389110220018",
+      "productId": "3389110220018",
+      "productName": "Telemecanique Limit switch, Limit switches XC Standard, XCMD, Metal End Plunger and a Zamak Body, 1NC + 1NO, snap, 1M - XCMD21F0L1",
+      "requestId": "162975",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:28:20.707Z"
+    },
+    "56768": {
+      "sku": "3389110652246",
+      "productId": "3389110652246",
+      "productName": "Limit Switch Telemecanique OsiSense XC XCR, Metal Stay-Put Crossed Rod Lever, 6 mm Square Rod, 2 × (1NO + 1NC) - XCRF17",
+      "requestId": "162976",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:28:25.474Z"
+    },
+    "56769": {
+      "sku": "3389110652499",
+      "productId": "3389110652499",
+      "productName": "Limit Switch Telemecanique OsiSense XC XCRT, Metal Enclosure Zinc Plated Steel Roller With Lever, 2 C/O - XCRT115",
+      "requestId": "162977",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:28:30.381Z"
+    },
+    "56770": {
+      "sku": "3389110660975",
+      "productId": "3389110660975",
+      "productName": "Limit Switch Telemecanique OsiSense XC XCRT, Metal Enclosure Stainless Steel Roller Lever, 2 C/O - XCRT215",
+      "requestId": "162978",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:28:35.045Z"
+    },
+    "56771": {
+      "sku": "3389110660982",
+      "productId": "3389110660982",
+      "productName": "Limit Switch Telemecanique OsiSense XC XCRT, Polyester Enclosure Stainless Steel Roller Lever, 2 C/O - XCRT315",
+      "requestId": "162979",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:28:39.319Z"
+    },
+    "56772": {
+      "sku": "3389110713664",
+      "productId": "3389110713664",
+      "productName": "Pressure Switch Telemecanique XMLB, 10 Bar, Adjustable Scale 2 Thresholds, 1 C/O - XMLB010A2S11",
+      "requestId": "162980",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:28:43.668Z"
+    },
+    "56773": {
+      "sku": "3389110713824",
+      "productId": "3389110713824",
+      "productName": "Pressure Switch Telemecanique XMLB, 20 Bar, Adjustable Scale 2 Thresholds, 1 C/O - XMLB020A2S11",
+      "requestId": "162981",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:28:48.506Z"
+    },
+    "56774": {
+      "sku": "3389110746754",
+      "productId": "3389110746754",
+      "productName": "Pressure Switch Telemecanique XMLB, 35 Bar, Adjustable Scale 2 Thresholds, 1 C/O - XMLB035A2S11",
+      "requestId": "162982",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:28:53.213Z"
+    },
+    "56775": {
+      "sku": "3389110714142",
+      "productId": "3389110714142",
+      "productName": "Pressure Switch Telemecanique XMLB, 70 Bar, Adjustable Scale 2 Thresholds, 1 C/O - XMLB070D2S11",
+      "requestId": "162983",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:28:57.361Z"
+    },
+    "56776": {
+      "sku": "3389110714265",
+      "productId": "3389110714265",
+      "productName": "Pressure Switch Telemecanique XMLB, 160 Bar, Adjustable Scale 2 Thresholds, 1 C/O - XMLB160D2S11",
+      "requestId": "162984",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:29:02.308Z"
+    },
+    "56777": {
+      "sku": "3389110714388",
+      "productId": "3389110714388",
+      "productName": "Pressure Switch Telemecanique XMLB, 300 Bar, Adjustable Scale 2 Thresholds, 1 C/O - XMLB300D2S11",
+      "requestId": "162985",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:29:06.939Z"
+    },
+    "56778": {
+      "sku": "3389110650105",
+      "productId": "3389110650105",
+      "productName": "Single Foot Switch Schneider Electric Harmony XPE, Metal, Without Cover, 1NO + 1NC, XPEM110 - Blue",
+      "requestId": "162986",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:29:11.640Z"
+    },
+    "56779": {
+      "sku": "3389110140026",
+      "productId": "3389110140026",
+      "productName": "Inductive Proximity Sensor Telemecanique XS7, 26 × 26 × 13 mm, PBT, Sn10mm, 12–24 V DC, 2 Meter Cable - XS7E1A1PAL2",
+      "requestId": "162987",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:29:16.263Z"
+    },
+    "56780": {
+      "sku": "3389110142891",
+      "productId": "3389110142891",
+      "productName": "Inductive Proximity Sensor Telemecanique XS8, 40 × 40 × 15 mm, PBT, Sn25mm, 24–240VAC/DC, 2 Meter Cable - XS8C1A1MAL2",
+      "requestId": "162988",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:29:20.792Z"
+    },
+    "56781": {
+      "sku": "3389119058179",
+      "productId": "3389119058179",
+      "productName": "Inductive Proximity Sensor Telemecanique XS8, 40 × 40 × 117 mm, PBT, Programmable 1 NO/1 NC, 24–240 V AC/DC, Screw Clamp Terminals - XS8C4A1MPG13",
+      "requestId": "162989",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:29:25.410Z"
+    },
+    "56782": {
+      "sku": "3389119058230",
+      "productId": "3389119058230",
+      "productName": "Inductive Proximity Sensor Telemecanique XS8, 40 × 40 × 117 mm, PBT, PNP, 1 NO + 1 NC, 12–48 V DC, Screw Clamp Terminals - XS8C4A1PCG13",
+      "requestId": "162990",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:29:29.743Z"
+    },
+    "56783": {
+      "sku": "3389110001570",
+      "productId": "3389110001570",
+      "productName": "Inductive Proximity Sensor Telemecanique XS8, 26 × 26 × 13 mm, PBT, 24-240 V AC/DC, Railway Cable, Hypertac Connector, Panel Mounting Bracket - XS8E1A1MAT02SF3",
+      "requestId": "162991",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:29:34.375Z"
+    },
+    "56784": {
+      "sku": "3389110528039",
+      "productId": "3389110528039",
+      "productName": "Inductive Proximity Sensor XS Telemecanique, for Rotation Monitoring, M30, Sn 10 mm, 6-150 rpm, 24-240 V AC/DC, 2 Meter Cable - XSAV11801",
+      "requestId": "162992",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:29:38.956Z"
+    },
+    "56785": {
+      "sku": "3389110628968",
+      "productId": "3389110628968",
+      "productName": "Inductive Proximity Sensor XS Telemecanique, for Rotation Monitoring, M30, Sn 10 mm, 120-3000 rpm, 12-48 V DC, 2 Meter Cable - XSAV12373",
+      "requestId": "162993",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:29:43.392Z"
+    },
+    "56786": {
+      "sku": "3389110528046",
+      "productId": "3389110528046",
+      "productName": "Inductive Proximity Sensor XS Telemecanique, for Rotation Monitoring, M30, Sn 10 mm, 120-3000 rpm, 24-240 V AC/DC, 2 Meter Cable - XSAV12801",
+      "requestId": "162994",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:29:48.173Z"
+    },
+    "56787": {
+      "sku": "3389110161076",
+      "productId": "3389110161076",
+      "productName": "Photoelectric Sensor XU Telemecanique, XUK, Reflex, Sn 7 m, 24-240 V AC/DC, 2 Meter Cable - XUK1ARCNL2",
+      "requestId": "162995",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:29:53.056Z"
+    },
+    "56788": {
+      "sku": "3389119037662",
+      "productId": "3389119037662",
+      "productName": "Photoelectric Sensor XU Telemecanique, XUK, Reflex, Kit, Sn 7 m, 24-240 V AC/DC, 2 Meter Cable - XUK1ARCNL2H60",
+      "requestId": "162996",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:29:57.738Z"
+    },
+    "56789": {
+      "sku": "3389110911275",
+      "productId": "3389110911275",
+      "productName": "Photoelectric Sensor XU Telemecanique, Miniature, Polarised, Smax 8 m, PNP, 12–24 V DC, 2 Meter Cable - XUM9APXBL2",
+      "requestId": "162997",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:30:02.014Z"
+    },
+    "56790": {
+      "sku": "3389110911282",
+      "productId": "3389110911282",
+      "productName": "Photoelectric Sensor XU Telemecanique, Miniature, Polarised, Smax 8 m, PNP, 12–24 V DC, M8 Connector – XUM9APXBM8",
+      "requestId": "162998",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:30:06.406Z"
+    },
+    "56791": {
+      "sku": "3389110178227",
+      "productId": "3389110178227",
+      "productName": "Photoelectric Sensor XU Telemecanique, Diffuse, Sn 9 mm, PNP/NPN, 12–24 V DC, M12 Connector - XURK1KSMM12",
+      "requestId": "162999",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:30:11.646Z"
+    },
+    "56792": {
+      "sku": "3389110620849",
+      "productId": "3389110620849",
+      "productName": "Photoelectric Sensor XU Telemecanique Reflector, Ø80 mm - XUZC80",
+      "requestId": "163000",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:30:15.988Z"
+    },
+    "56793": {
+      "sku": "3389119630993",
+      "productId": "3389119630993",
+      "productName": "Dual Emergency Stop Rope Pull Switch Telemecanique XY2C, 2×(1NC + 1NO), Booted Push-Button Reset - XY2CEDB290",
+      "requestId": "163001",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:30:20.198Z"
+    },
+    "56794": {
+      "sku": "3389110562316",
+      "productId": "3389110562316",
+      "productName": "Telemecanique Sensors XY2C Pull-Wire Emergency Stop Switch, 1 NO + 1 NC, Protected Reset Button - XY2CH13250",
+      "requestId": "163002",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:30:24.237Z"
+    },
+    "56795": {
+      "sku": "3389110763171",
+      "productId": "3389110763171",
+      "productName": "Telemecanique Sensors XZCP Sensor Cable, M12 Female Straight, 4-Pin, 2 m - XZCP1141L2",
+      "requestId": "163003",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:30:29.073Z"
+    },
+    "56796": {
+      "sku": "13389110089476",
+      "productId": "13389110089476",
+      "productName": "Harmony Single Contact Block Schneider Electric, 1 NO - ZBE101",
+      "requestId": "163004",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:30:33.599Z"
+    },
+    "56797": {
+      "sku": "13389110089483",
+      "productId": "13389110089483",
+      "productName": "Harmony Single Contact Block Schneider Electric, 1 NC - 240 V, 10 A - ZBE102",
+      "requestId": "163005",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:30:38.261Z"
+    },
+    "56798": {
+      "sku": "3389110646108",
+      "productId": "3389110646108",
+      "productName": "Telemecanique Sensors ZCKJ Limit Switch Body, 1 NC + 1 NO, Snap Action - ZCKJ1",
+      "requestId": "163006",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:30:42.990Z"
+    },
+    "56799": {
+      "sku": "3389110183962",
+      "productId": "3389110183962",
+      "productName": "Telemecanique Sensors ZCP Limit Switch Body, 1 NC + 1 NO, Snap Action, M12 4-Pin - ZCP21M12",
+      "requestId": "163007",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-20T00:30:47.068Z"
+    },
+    "56800": {
+      "sku": "3606480329746",
+      "productId": "3606480329746",
+      "productName": "Protect Three-Phase Motor Thermal Overload Relay Schneider Electric Easy TeSys, 1.6–2.5 A, Class 10A - LRE07",
+      "requestId": "162911",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:45:19.112Z"
+    },
+    "56801": {
+      "sku": "3389110082029",
+      "productId": "3389110082029",
+      "productName": "Contactor Coil Schneider Electric TeSys F, LX1FJ, 220–230 V AC, 40–400 Hz - LX1FJ220",
+      "requestId": "162912",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:45:23.279Z"
+    },
+    "56802": {
+      "sku": "3389119410458",
+      "productId": "3389119410458",
+      "productName": "Contactor Coil Schneider Electric TeSys Deca, D40A–D65A, 380 V AC, 50/60 Hz - LXD3Q7",
+      "requestId": "162913",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:45:27.724Z"
+    },
+    "56803": {
+      "sku": "3606480613982",
+      "productId": "3606480613982",
+      "productName": "Power Meter Schneider Electric PowerLogic PM5110, Up to 15th Harmonic, 1DO, 33 Alarms - METSEPM5110",
+      "requestId": "162916",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:45:41.256Z"
+    },
+    "56804": {
+      "sku": "23303432319810",
+      "productId": "23303432319810",
+      "productName": "Panel-Mounted Socket Outlet Schneider Electric Mureva PK, 16 A, IP54, CEE 7/3 (Schuko), 2P+E - PKS51B",
+      "requestId": "162919",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:45:50.476Z"
+    },
+    "56805": {
+      "sku": "3606481856128",
+      "productId": "3606481856128",
+      "productName": "Miniature Circuit Breaker Schneider Resi9, (MCB), 2P, 10 A, C Curve, 4.5 kA, 400 V - R9F32210",
+      "requestId": "162920",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:45:54.900Z"
+    },
+    "56806": {
+      "sku": "3606481856135",
+      "productId": "3606481856135",
+      "productName": "Miniature Circuit Breaker Schneider Resi9, (MCB), 2P, 16 A, C Curve, 4.5 kA - R9F32216",
+      "requestId": "162921",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:45:59.546Z"
+    },
+    "56807": {
+      "sku": "3606481856142",
+      "productId": "3606481856142",
+      "productName": "Miniature Circuit Breaker Schneider Resi9, (MCB), 2P, 20 A, C Curve, 4.5 kA, 400 V - R9F32220",
+      "requestId": "162922",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:46:04.260Z"
+    },
+    "56808": {
+      "sku": "3606481856159",
+      "productId": "3606481856159",
+      "productName": "Miniature Circuit Breaker Schneider Resi9, (MCB), 2P, 25 A, C Curve, 4.5 kA - R9F32225",
+      "requestId": "162923",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:46:08.889Z"
+    },
+    "56809": {
+      "sku": "3606481929174",
+      "productId": "3606481929174",
+      "productName": "Residual Current Circuit Breaker Schneider Electric Resi9 (RCCB), 2P, 40 A, 30 mA, Type AC - R9R45240",
+      "requestId": "162925",
+      "price": "1000",
+      "groupPrice": "1000",
+      "submittedAt": "2026-08-19T23:46:17.650Z"
+    }
+  }
+}

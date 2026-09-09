@@ -1,4 +1,17 @@
 node_modules/
+
+# مخرجات التشغيل
+logs/
+results/report-*.json
+results/report-*.xlsx
+
+# ملاحظة: results/submitted.json يُتابَع في Git عن قصد،
+# لأنه سجل منع التكرار ويجب أن يبقى محفوظاً.
+
+# ملفات مؤقتة قديمة
 auth_state.json
+shots/
 *.png
 page.html
+results/elios-*.xlsx
+results/locks-*.xlsx
